@@ -39,7 +39,7 @@ def main():
         with Cache():
             btfinder = BintrayFinder()
             btfinder.run()
-            btfinder.print()
+            btfinder.finder_print()
             btfinder.generate_stubs()
     elif args.subparser_name == 'validate':
         validate_packages(os.getcwd())

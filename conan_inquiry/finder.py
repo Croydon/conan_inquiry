@@ -22,7 +22,7 @@ class GithubFinder:
     def _find_files(self, file):
         return [r for r in self.github.search_code(file) if file in r.path]
 
-    def print(self):
+    def finder_print(self):
         res = self.github.search_code('conanfile.py in:path path:/')
         pass
 
@@ -173,7 +173,7 @@ class BintrayFinder:
         self.missing_packages = self._filter_missing_package(found)
         self.missing_repos = sorted(self._filter_missing_repository(found))
 
-    def print(self):
+    def finder_print(self):
         for pkg in self.missing_packages:
             print('Missing package:', '/'.join(pkg[:3]))
         for pkg in self.missing_repos:

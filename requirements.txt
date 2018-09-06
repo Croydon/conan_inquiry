@@ -11,3 +11,5 @@ docutils
 jsonschema
 beautifulsoup4
 tqdm
+jsmin
+natsort
