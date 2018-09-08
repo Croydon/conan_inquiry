@@ -43,6 +43,8 @@ You need to have Git and Python 3 installed. Then clone the project using git an
 ```commandline
 git clone https://github.com/02JanDal/conan_inquiry
 cd conan_inquiry
+virtualenv -p /usr/bin/python3 ve
+source ve/bin/activate
 pip install -r requirements.txt
 ```
 
