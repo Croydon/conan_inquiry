@@ -109,6 +109,7 @@ class Cache:
                             raise TypeError('Invalid type')
 
                         if context == "bintray" and isinstance(value, tuple):
+                            print(value[0])
                             value = value[0]
 
                         self._set(key, value, context)
