@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2017 Jan Dalheimer <jan@dalheimer.de>
+Coypright (c) 2018 Michael "Croydon" Keck <cr0ydon@outlook.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
