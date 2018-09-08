@@ -1,6 +1,6 @@
 recipies:
   - repo:
-      bintray: dimi309/conan-packages/glew:dimi309
+      bintray: bincrafters/public-conan/glew:bincrafters
   - repo:
       bintray: foxostro/PinkTopaz/glew:coding3d
   - repo:

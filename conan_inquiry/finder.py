@@ -111,12 +111,11 @@ class BintrayFinder:
         # https://github.com/spielhuus/avcpp # owner exists
         # https://github.com/nwoetzel/conan-omniorb # owner exists
 
-        for a in ['inexorgame/inexor-conan', 'odant/conan', 'vuo/conan', 'squawkcpp/conan-cpp',
+        for a in ['inexorgame/inexor-conan', 'bincrafters/public-conan', 'odant/conan', 'vuo/conan', 'squawkcpp/conan-cpp',
                   'degoodmanwilson/opensource', 'objectx/conan', 'franc0is/conan',
-
                   'boujee/conan', 'mdf/2out', 'impsnldavid/public-conan', 'sunxfancy/common',
                   'jacmoe/Conan', 'madebr/openrw', 'ogs/conan', 'danimtb/public-conan', 'kwallner/stable',
-                  'kwallner/testing', 'dobiasd/public-conan', 'solvingj/public-conan', 'slyrisorg/SlyrisOrg',
+                  'kwallner/testing', 'dobiasd/public-conan', 'solvingj/public-conan',
                   'cliutils/CLI11', 'tuncb/pangea', 'mikayex/conan-packages', 'kenfred/conan-corner',
                   'p-groarke/conan-public', 'jabaa/Conan', 'blosc/Conan', 'sourcedelica/public-conan',
                   'sourcedelica/conan', 'rockdreamer/throwing_ptr', 'qtproject/conan', 'rhard/conan',

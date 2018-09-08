@@ -9,3 +9,4 @@
 conan_inquiry/data/web/packages.js
 ve/
 .cache
+.directory
