@@ -35,6 +35,7 @@ class CachingRequester(Requester):
         key = hashlib.md5(rawkey.encode('utf-8')).hexdigest()
 
         requester = self
+
         def getter():
             print(url)
             return super(CachingRequester, requester).requestJson(verb, url, parameters, headers, input, cnx)

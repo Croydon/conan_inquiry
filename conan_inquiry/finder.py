@@ -140,7 +140,9 @@ class BintrayFinder:
         # replace linked packages by their sources
         for index, pkg in enumerate(pkgs):
             if pkg.linked:
-                bt_package = self.client.get('/packages/' + pkg.repoowner + '/' + pkg.reponame + '/' + pkg.name)
+                bt_path = '/packages/' + pkg.repoowner + '/' + pkg.reponame + '/' + pkg.name
+                print("_find_packages: get https://api.bintray.com{}".format(bt_path))
+                bt_package = self.client.get(bt_path)
                 pkgs[index] = BintrayPackageDescriptor(bt_package['owner'],
                                                        bt_package['repo'],
                                                        pkg.name,

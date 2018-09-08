@@ -1,13 +1,23 @@
 dist: xenial
-sudo: false
+sudo: true
 
 language: python
-python: 3.7
+python: "3.7"
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change
 
 install:
   - pip install -r requirements.txt
 
-before_script:
+script:
   - python -m conan_inquiry find
   - python -m conan_inquiry generate
-  - python -m conan_inquiry deploy 
+  - python -m conan_inquiry wishlist
+  - python -m conan_inquiry deploy
+
+branches:
+  only:
+    - master
