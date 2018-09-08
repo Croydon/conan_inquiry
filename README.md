@@ -27,14 +27,14 @@ When updating the list of packages the usual workflow is as follows:
 
 1. Add at least one package for each fully new repository
 2. Run `mkdir build && cd build`
-3. Run `conan_inquiry.py find` to find new packages
-4. Run `conan_inquiry.py generate` (see below for more information) to gather additional data and generate an aggregated package file
-5. Run `conan_inquiry.py validate` to find any missing fields (start from the top of the output)
+3. Run `python -m conan_inquiry find` to find new packages
+4. Run `python -m conan_inquiry generate` (see below for more information) to gather additional data and generate an aggregated package file
+5. Run `python -m conan_inquiry validate` to find any missing fields (start from the top of the output)
     1. Fix _all_ (otherwise you'll waste ratelimit resource) severe issues it reports
     2. Repeat (generate -> validate -> fix) until there are no more issues
 
-6. Run `conan_inquiry.py server` and open `localhost:8000` in a browser
-7. Run `conan_inquiry.py deploy` to upload everything to a gh-pages branch
+6. Run `python -m conan_inquiry server` and open `localhost:8000` in a browser
+7. Run `python -m conan_inquiry deploy` to upload everything to a gh-pages branch
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ Then put them in environment variables before running the generator:
 
 ```commandline
 mkdir build && cd build
-python conan_inquiry.py generate
+python python -m conan_inquiry generate
 ```
 
 ### Developing the web interface
@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the
 
 ## Acknowledgments
 
-* Everyone who has contributed to the [conan project](https://github.com/conan-io/conan)
+* Everyone who has contributed to the [Conan project](https://github.com/conan-io/conan)
 * Bincrafters, who have created many of the package recipes
 * @PurpleBooth for the [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
