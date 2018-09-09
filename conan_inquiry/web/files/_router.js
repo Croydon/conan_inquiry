@@ -49,6 +49,9 @@ App.router.on(function() {
     'stats': {as: 'stats', uses: function(params) {
         App.setState('statistics');
     }},
+    'wishlist': {as: 'wishlist', uses: function(params) {
+        App.setState('wishlist');
+    }},
     'remote/:owner/:repo': {as: 'remote', uses: function(params) {
         App.setState('remote');
         App.remote.$.html(App.templates.remote({

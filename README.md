@@ -1,7 +1,7 @@
-# [Conan Inquiry](https://02jandal.github.io/conan_inquiry)
+# [Conan Inquiry](https://croydon.github.io/conan_inquiry)
 
 A way to search for conan packages across the web, and view additional information about them.
-You can find it [here](https://02jandal.github.io/conan_inquiry).
+You can find it [here](https://croydon.github.io/conan_inquiry).
 
 ## Features
 
@@ -17,9 +17,9 @@ below and head straight to [reporting an issues](/issues/new).
 
 This repository consist of three things:
 
-* Static data files ([conan_inquiry/data/packages](https://github.com/02JanDal/conan_inquiry/tree/master/conan_inquiry/data/packages))
-* Scripts to find new packages, generate the full JSON file from the static data files and validate the result ([conan_inquiry](https://github.com/02JanDal/conan_inquiry/tree/master/conan_inquiry))
-* A web interface using the generated JSON ([conan_inquiry/data/web](https://github.com/02JanDal/conan_inquiry/tree/master/conan_inquiry/data/web))
+* Static data files ([conan_inquiry/data/packages](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry/data/packages))
+* Scripts to find new packages, generate the full JSON file from the static data files and validate the result ([conan_inquiry](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry))
+* A web interface using the generated JSON ([conan_inquiry/data/web](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry/data/web))
 
 ### Workflow
 
@@ -41,7 +41,7 @@ When updating the list of packages the usual workflow is as follows:
 You need to have Git and Python 3 installed. Then clone the project using git and install the dependencies using pip:
 
 ```commandline
-git clone https://github.com/02JanDal/conan_inquiry
+git clone https://github.com/Croydon/conan_inquiry
 cd conan_inquiry
 virtualenv -p /usr/bin/python3 ve
 source ve/bin/activate
@@ -87,20 +87,20 @@ Copy a generated `packages.js` to `conan_inquiry/data/web` and open `index.html`
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/02JanDal/conan_inquiry/blob/master/CONTRIBUTING.md) for details on our
+Please read [CONTRIBUTING.md](https://github.com/Croydon/conan_inquiry/blob/master/CONTRIBUTING.md) for details on our
 code of conduct, and the process for submitting pull requests.
 
 ## Authors
 
 * [Jan Dalheimer](https://github.com/02JanDal) - Initial work and maintainer
 
-See also the list of [contributors](https://github.com/02JanDal/conan_inquiry/contributors) for everyone who
+See also the list of [contributors](https://github.com/Croydon/conan_inquiry/contributors) for everyone who
 participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the
-[LICENSE](https://github.com/02JanDal/conan_inquiry/blob/master/LICENSE.md) file for details.
+[LICENSE](https://github.com/Croydon/conan_inquiry/blob/master/LICENSE.md) file for details.
 
 ## Acknowledgments
 

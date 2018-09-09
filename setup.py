@@ -5,7 +5,7 @@ import conan_inquiry
 setup(
     name='Conan-Inquiry',
     version=conan_inquiry.__version__,
-    url='https://github.com/02JanDal/conan_inquiry',
+    url='https://github.com/Croydon/conan_inquiry',
     license='MIT',
     author='Jan Dalheimer',
     author_email='jan@dalheimer.de',
