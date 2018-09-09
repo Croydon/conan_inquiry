@@ -30,7 +30,7 @@ class CachingRequester(Requester):
     def requestJson(self, verb, url, parameters=None, headers=None, input=None, cnx=None):
         if Cache.current_cache is None:
             return super(CachingRequester, self).requestJson(verb, url, parameters, headers, input, cnx)
-        
+
         rawkey = verb + url + json.dumps(parameters or dict()) + str(headers or dict()) + (input or '') + (cnx or '')
         key = hashlib.md5(rawkey.encode('utf-8')).hexdigest()
 
@@ -60,7 +60,7 @@ def get_github_client(version):
         if client_secret is None or client_secret == '':
             raise Exception('You need to set GITHUB_CLIENT_SECRET using environment variables')
 
-        gh = Github(login_or_token=token, client_id=client_id, client_secret=client_secret, per_page=100)
+        gh = Github(login_or_token=token, client_id=client_id, client_secret=client_secret, verify=True, per_page=100)
         #gh._Github__requester = CachingRequester(gh._Github__requester)
         return gh
     elif version == 4:

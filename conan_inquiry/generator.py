@@ -73,7 +73,7 @@ class Generator:
 
         github = get_github_client(3)
         # Used to calculate the resources used
-        rate_before = github.get_rate_limit().rate
+        rate_before = github.rate_limiting
         try:
             with Cache(os.getenv('CACHE_FILE'), notimeout=development):
                 # Collect package files
@@ -113,10 +113,13 @@ class Generator:
 
                     print('All generation steps succeeded and package data written')
         finally:
-            rate = github.get_rate_limit().rate
-            print('Github rate limiting:\n\tRemaining: {}/{}\n\tUsed this call: {}\n\tResets: {}'.format(
-                rate.remaining, rate.limit, rate_before.remaining - rate.remaining,
-                (rate.reset + datetime.timedelta(hours=1)) - datetime.datetime.now()))
+            # remaining is tuple 0, limit is tuple 1, see https://github.com/PyGithub/PyGithub/commit/ca974699b0ea2a770e6c2dbd162b3d2c0ae9fe89
+            rate = github.rate_limiting
+            print('Github rate limiting:\n\tRemaining: {}/{}\n\tUsed this call: {}'.format(
+                rate[0], rate[1], rate_before[0] - rate[0]))
+                # \n\tResets: {} (rate.reset + datetime.timedelta(hours=1)) - datetime.datetime.now()))
+                # PyGitHub doesn't implement the rate limit API fully right now
+                # see https://github.com/PyGithub/PyGithub/issues/26
 
             bt = Bintray()
             print('Bintray rate limiting:\n\tUsed this call: {}'.format(bt.rate_used))
