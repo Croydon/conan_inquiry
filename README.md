@@ -32,9 +32,9 @@ When updating the list of packages the usual workflow is as follows:
 5. Run `python -m conan_inquiry validate` to find any missing fields (start from the top of the output)
     1. Fix _all_ (otherwise you'll waste ratelimit resource) severe issues it reports
     2. Repeat (generate -> validate -> fix) until there are no more issues
-
-6. Run `python -m conan_inquiry server` and open `localhost:8000` in a browser
-7. Run `python -m conan_inquiry deploy` to upload everything to a gh-pages branch
+6. Run `python -m conan_inquiry wishlist` to renew to wishlist data
+7. Run `python -m conan_inquiry server` and open `localhost:8000` in a browser
+8. Run `python -m conan_inquiry deploy` to upload everything to a gh-pages branch
 
 ### Prerequisites
 

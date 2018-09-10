@@ -12,6 +12,7 @@ from conan_inquiry.util.github import get_github_client
 from conan_inquiry.web.server import DevelopmentHTTPRequestHandler
 from conan_inquiry.util.cache import Cache
 from conan_inquiry.validator import validate_packages
+from conan_inquiry.wishlist import Wishlist
 
 
 def main():
@@ -26,6 +27,9 @@ def main():
     subparsers.add_parser('validate', help='validates the generated json file')
     subparsers.add_parser('deploy', help='deploys files to GitHub pages')
     subparsers.add_parser('server', help='starts a development server')
+
+    wl = subparsers.add_parser('wishlist', help='generates wishlist files for web deployment')
+    wl.add_argument('--development', action='store_true', help='turns on various options useful for development')
 
     args = parser.parse_args()
 
@@ -43,6 +47,9 @@ def main():
             btfinder.generate_stubs()
     elif args.subparser_name == 'validate':
         validate_packages(os.getcwd())
+    elif args.subparser_name == 'wishlist':
+        wishlist = Wishlist(args.development)
+        wishlist.generate()
     elif args.subparser_name == 'deploy':
         deploy()
     elif args.subparser_name == 'server':

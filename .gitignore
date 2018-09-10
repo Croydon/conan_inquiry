@@ -7,6 +7,9 @@
 /dist/
 *.egg-info/
 conan_inquiry/data/web/packages.js
+conan_inquiry/data/web/wishlist.json
+conan_inquiry/data/web/wishlist.js
 ve/
 .cache
 .directory
+gh-pages/

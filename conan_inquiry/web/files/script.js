@@ -36,6 +36,7 @@ window.App = App;
 //import _uiPackage.js
 //import _uiRemote.js
 //import _uiStatistics.js
+//import _uiWishlist.js
 
 $(function() {
     App.router.resolve();

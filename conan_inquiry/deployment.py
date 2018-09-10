@@ -3,36 +3,38 @@ from tempfile import TemporaryDirectory
 
 import os
 import subprocess
-import shutil
 import hashlib
 
 from conan_inquiry.web.file_retrieval import WebFiles
 
 
 def deploy():
-    with TemporaryDirectory() as dir:
-        print('* Deploying with tempdir:', dir)
+    dir = os.path.join(os.path.dirname(__file__), "../gh-pages")
+    print('* Deploying with dir:', dir)
 
-        def git(subcmd, *args, **kwargs):
-            kwargs.setdefault('cwd', os.path.join(dir, 'conan_inquiry'))
+    def git(subcmd, *args, **kwargs):
+        kwargs.setdefault('cwd', os.path.join(dir, 'conan_inquiry'))
 
-            print('* Running: git', subcmd, *args)
-            retcode = subprocess.call(['git', subcmd] + list(args), **kwargs)
-            if retcode != 0:
-                raise ChildProcessError('Unable to run the command')
+        print('* Running: git', subcmd)
+        retcode = subprocess.call(['git', subcmd] + list(args), **kwargs)
+        if retcode != 0:
+            raise ChildProcessError('Unable to run the command')
 
-        git('clone', os.getenv('GITHUB_REPO', 'git@github.com:02JanDal/conan_inquiry.git'),
-            '--branch', 'gh-pages',
-            '--single-branch',
-            cwd=dir)
+    repository = os.getenv('GITHUB_REPO', 'https://{}@github.com/Croydon/conan_inquiry'.format(os.getenv('GITHUB_TOKEN')))
 
-        files = WebFiles()
+    if not os.path.exists(dir):
+        os.makedirs(dir)
+        git('clone', repository, '--branch', 'gh-pages', '--single-branch', cwd=dir)
+    else:
+        git('pull')
 
-        for file in files.names():
-            with open(os.path.join(dir, 'conan_inquiry', file), 'wt') as f:
-                f.write(files.get_file(file, debug=False))
-            git('add', os.path.join(dir, 'conan_inquiry', file))
+    files = WebFiles()
 
-        git('commit', '--amend', '-m', '"Automatic deployment"')
-        git('push', '-f', 'origin', 'gh-pages')
-        print('* Deployment successful!')
+    for file in files.names():
+        with open(os.path.join(dir, 'conan_inquiry', file), 'wt') as f:
+            f.write(files.get_file(file, debug=False))
+        git('add', os.path.join(dir, 'conan_inquiry', file))
+
+    git('commit', '-am', 'Automatic deployment')
+    git('push')
+    print('* Deployment successful!')

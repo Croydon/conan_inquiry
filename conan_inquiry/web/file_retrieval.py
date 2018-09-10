@@ -42,7 +42,7 @@ class WebFiles:
         return os.path.getsize(self.full_name(name))
 
     def names(self):
-        files = ['packages.js', 'packages.json']
+        files = ['packages.js', 'packages.json', 'wishlist.json', 'wishlist.js']
         for entry in os.listdir(self.dir):
             full_name = os.path.join(self.dir, entry)
             if os.path.isfile(full_name) and not entry.startswith('_'):
@@ -50,4 +50,4 @@ class WebFiles:
         return files
 
     def is_constant(self, name):
-        return name == 'packages.js' or name == 'packages.json'
+        return name == 'packages.js' or name == 'packages.json' or name == 'wishlist.json' or name == 'wishlist.js'
