@@ -23,7 +23,7 @@ App.wishlist.onEnter = function() {
 
     for(let wish of sortedWishlist) {
         let upvotesOutput = wish[0].toString();
-        generatedhtml += "<li><span class='wishlist-upvotes'>👍 " + upvotesOutput + "</span> <a href='https://github.com/conan-io/wishlist/issues/" + wish[1] + "' target='_blank'>" + wish[2] + "</a></li>";
+        generatedhtml += "<li><span class='wishlist-upvotes'>👍 " + upvotesOutput + "</span> <a href='https://github.com/conan-io/wishlist/issues/" + wish[1] + "' target='_blank'><span class='wishlist-icons'></span><span class='wishlist-title'>" + wish[2] + "</span></a></li>";
     }
 
     this.$wishlistPackages.html(generatedhtml);
