@@ -11,6 +11,8 @@ App.wishlist.onEnter = function() {
     let generatedhtml = "";
     let sortedWishlist = [];
 
+    $("#numPackagesWishes").text(Object.keys(wishlist_data).length);
+
     Object.keys(wishlist_data).forEach((key) => {
         sortedWishlist.push([wishlist_data[key]["upvotes"], wishlist_data[key]["issue"], wishlist_data[key]["issuetitle"]]);
     });
