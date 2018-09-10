@@ -1,14 +1,17 @@
 # [Conan Inquiry](https://croydon.github.io/conan_inquiry)
 
-A way to search for conan packages across the web, and view additional information about them.
+A way to search for Conan packages across the web, and view additional information about them.
 You can find it [here](https://croydon.github.io/conan_inquiry).
+
 
 ## Features
 
 * Search results updated-as-you-type
-* Packages from repositories outside conan-central
+* Packages from repositories outside conan-center
 * Quick information about what is packaged (description, licenses, authors, links, code example, etc.)
 * View README, the `conanfile.py` and more
+* See packages wishes rankes by their popularity
+
 
 ## Getting started
 
@@ -20,6 +23,7 @@ This repository consist of three things:
 * Static data files ([conan_inquiry/data/packages](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry/data/packages))
 * Scripts to find new packages, generate the full JSON file from the static data files and validate the result ([conan_inquiry](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry))
 * A web interface using the generated JSON ([conan_inquiry/data/web](https://github.com/Croydon/conan_inquiry/tree/master/conan_inquiry/data/web))
+
 
 ### Workflow
 
@@ -36,6 +40,7 @@ When updating the list of packages the usual workflow is as follows:
 7. Run `python -m conan_inquiry server` and open `localhost:8000` in a browser
 8. Run `python -m conan_inquiry deploy` to upload everything to a gh-pages branch
 
+
 ### Prerequisites
 
 You need to have Git and Python 3 installed. Then clone the project using git and install the dependencies using pip:
@@ -50,9 +55,11 @@ pip install -r requirements.txt
 
 **Note:** It is highly recommended that you use a [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
+
 ### Using the generator
 
 In order to be able to test/use the web interface you need to run the generator.
+
 
 #### Getting your access tokens
 
@@ -74,6 +81,7 @@ Then put them in environment variables before running the generator:
 * `BINTRAY_USERNAME`
 * `GITLAB_GITLAB_KITWARE_COM_TOKEN`
 
+
 #### Running the generator
 
 ```commandline
@@ -81,14 +89,17 @@ mkdir build && cd build
 python python -m conan_inquiry generate
 ```
 
+
 ### Developing the web interface
 
 Copy a generated `packages.js` to `conan_inquiry/data/web` and open `index.html` in your browser of choice.
+
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/Croydon/conan_inquiry/blob/master/CONTRIBUTING.md) for details on our
 code of conduct, and the process for submitting pull requests.
+
 
 ## Authors
 
@@ -97,10 +108,12 @@ code of conduct, and the process for submitting pull requests.
 See also the list of [contributors](https://github.com/Croydon/conan_inquiry/contributors) for everyone who
 participated in this project.
 
+
 ## License
 
 This project is licensed under the MIT License - see the
 [LICENSE](https://github.com/Croydon/conan_inquiry/blob/master/LICENSE.md) file for details.
+
 
 ## Acknowledgments
 
