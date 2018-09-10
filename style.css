@@ -37,6 +37,39 @@ html, body {
     border: 0;
 }
 
+#wishlistPackages li:nth-child(1) {
+    line-height: 2em;
+    font-size: 1.5em;
+}
+
+#wishlistPackages li:nth-child(1) .wishlist-icons::before {
+    content: "🥇 ";
+}
+
+#wishlistPackages li:nth-child(2) {
+    line-height: 1.8em;
+    font-size: 1.3em;
+}
+
+#wishlistPackages li:nth-child(2) .wishlist-icons::before {
+    content: "🥈 ";
+    white-space: pre;
+}
+
+#wishlistPackages li:nth-child(3) {
+    line-height: 1.6em;
+    font-size: 1.15em;
+}
+
+#wishlistPackages li:nth-child(3) .wishlist-icons::before {
+    content: "🥉 ";
+    white-space: pre;
+}
+
+.wishlist-icons {
+    font-size: 1em !important;
+}
+
 #wishlistPackages li:nth-child(even) {
     background-color: #E8E8E8;
 }
