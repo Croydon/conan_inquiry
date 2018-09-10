@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <title>Conan Inquiry</title>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="Search and browse amongst dozens of conan.io packages, get more information and installation instructions to top it off"/>
-    <link rel="canonical" href="https://02jandal.github.com/conan_inquiry"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css" integrity="sha256-jBpMJWNNWEGSSqsYSKzJ3Lw9VnIYMFPItx/yE5tl18M=" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" integrity="sha256-3YM6A3pH4QFCl9WbSU8oXF5N6W/2ylvW0o2g+Z6TmLQ=" crossorigin="anonymous" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=" crossorigin="anonymous" />
-    <link rel="stylesheet" href="style.css"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Search and browse amongst dozens of Conan packages, get more information and installation instructions to top it off">
+    <link rel="canonical" href="https://croydon.github.io/conan_inquiry">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css" integrity="sha256-jBpMJWNNWEGSSqsYSKzJ3Lw9VnIYMFPItx/yE5tl18M=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" integrity="sha256-3YM6A3pH4QFCl9WbSU8oXF5N6W/2ylvW0o2g+Z6TmLQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body class="d-flex flex-column">
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
@@ -53,11 +53,16 @@
                         <i class="fa fa-pie-chart"></i> Statistics
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#!wishlist">
+                        <i class="fa fa-code"></i> Wishlist
+                    </a>
+                </li>
             </ul>
         </div>
     </nav>
 
-    <a href="https://github.com/02JanDal/conan_inquiry" class="ribbon d-none d-md-block">
+    <a href="https://github.com/Croydon/conan_inquiry" class="ribbon d-none d-md-block">
         <img src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub">
     </a>
 
@@ -72,7 +77,7 @@
                 </p>
                 <p>
                     The data for this site is generated based on static data available on
-                    <a href="https://github.com/02JanDal/conan_inquiry">GitHub</a>. The scripts used for generation are also
+                    <a href="https://github.com/Croydon/conan_inquiry">GitHub</a>. The scripts used for generation are also
                     available there. If you want to add a package, report (or even fix!) an error or extend this webpage
                     then that repo is the place to be!
                 </p>
@@ -140,10 +145,22 @@
             <small class="text-muted">All of these are automatically generated, so take them with a grain of salt</small>
             <div id="findings"></div>
         </section>
+
+        <section data-state="wishlist" id="wishlistView">
+            <section id="wishlistInformation">
+                <h1>Wishlist</h1>
+                <p>
+                    This page displays all <span class="badge badge-light" id="numPackagesWishes"></span> packages
+                    wishes from the <a href="https://github.com/conan-io/wishlist/issues" target="_self">wishlist repository</a> ranked by their upvotes. Create new issues for packages your are missing and upvote existing ones you are interested in to give them more attention.
+                </p>
+            <hr/>
+            <ul id="wishlistPackages">
+            </ul>
+        </section>
     </div>
 
     <footer class="navbar navbar-light bg-light mt-auto">
-        <div class="navbar-text text-center">Copyright &copy; 2017 <a href="https://github.com/02JanDal">@02JanDal</a></div>
+        <div class="navbar-text text-center">Copyright &copy; 2017 <a href="https://github.com/02JanDal">@02JanDal</a>, 2018 <a href="https://github.com/Croydon">@Croydon</a></div>
     </footer>
 
     <script type="text/html-template" id="packageItemTemplate"><a href="<%= App.router.generate('package', {id: id}) %>" class="list-group-item list-group-item-action flex-column align-items-start package_result" id="package_<%= id %>">
@@ -357,7 +374,8 @@
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js" integrity="sha256-CfcERD4Ov4+lKbWbYqXD6aFM9M51gN4GUEtDhkWABMo=" crossorigin="anonymous"></script>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/chartkick/2.3.0/chartkick.min.js" integrity="sha256-pKi+C/L3JqiD10GzkevwyZ+pUZuKi5BxbPZiCg/Val4=" crossorigin="anonymous"></script>
     <script defer src="https://unpkg.com/sunburst-chart@1.0.5/dist/sunburst-chart.min.js"></script>
-    <script defer src="packages.js?cache_buster=a185e11b77605579bcdcc6a234d21db2"></script>
-    <script defer src="script.js?cache_buster=a185e11b77605579bcdcc6a234d21db2"></script>
+    <script defer src="packages.js?cache_buster=4b2c74b36de2c4010c874f3e3fa1f5c0"></script>
+    <script defer src="wishlist.js?cache_buster=4b2c74b36de2c4010c874f3e3fa1f5c0"></script>
+    <script defer src="script.js?cache_buster=4b2c74b36de2c4010c874f3e3fa1f5c0"></script>
 </body>
 </html>
