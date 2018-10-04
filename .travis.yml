@@ -13,8 +13,8 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - python -m conan_inquiry find
-  - python -m conan_inquiry generate
+  # - python -m conan_inquiry find
+  # - python -m conan_inquiry generate
   - python -m conan_inquiry wishlist
   - python -m conan_inquiry deploy
 
