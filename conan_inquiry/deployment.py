@@ -31,8 +31,6 @@ def deploy():
         os.makedirs('build')
 
     for file in os.listdir(os.path.join(os.path.dirname(__file__), 'web', 'files')):
-        print("copy:")
-        print(os.path.join(os.path.dirname(__file__), 'web', 'files', file))
         copy(os.path.join(os.path.dirname(__file__), 'web', 'files', file), 'build')
 
     files = WebFiles()
