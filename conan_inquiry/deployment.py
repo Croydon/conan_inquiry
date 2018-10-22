@@ -38,11 +38,12 @@ def deploy():
     for file in files.deploy_names():
         file_path = os.path.join(os.path.dirname(__file__), '..', 'build', file)
 
-        with open(file_path, 'r+', encoding="utf8") as f:
-            data = files.adjust_content(file, f.read(), debug=False)
-            f.seek(0)
-            f.write(data)
-            f.truncate()
+        if not file_path.endswith('.png'):
+            with open(file_path, 'r+', encoding="utf8") as f:
+                data = files.adjust_content(file, f.read(), debug=False)
+                f.seek(0)
+                f.write(data)
+                f.truncate()
         copy(file_path, os.path.join('gh-pages', 'conan_inquiry'))
 
     git('add', '-A')

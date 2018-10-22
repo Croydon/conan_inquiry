@@ -56,7 +56,7 @@ class WebFiles:
     def size(self, name):
         return os.path.getsize(self.full_name(name))
 
-    # Returns list of file names which are important for web deployment
+    # Returns list of file names which need editing before web deployment
     def deploy_names(self):
         files = self.files_generated
         for entry in os.listdir(self.dir):
@@ -71,7 +71,7 @@ class WebFiles:
             if os.path.isfile(self.full_name(file_gen)):
                 files.append(self.full_name(file_gen))
         for entry in os.listdir(self.dir):
-            if os.path.isfile(self.full_name(entry)) and not entry.startswith('_'):
+            if os.path.isfile(self.full_name(entry)) and not entry.startswith('_') and not entry.endswith('.png'):
                 files.append(self.full_name(entry))
         return files
 
