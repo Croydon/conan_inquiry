@@ -4,7 +4,7 @@ from collections import namedtuple
 from typing import Tuple, Set
 
 import re
-import requests
+# import requests
 import yaml
 
 from conan_inquiry.util.bintray import Bintray
@@ -67,13 +67,11 @@ class BintrayFinder:
 
         # Github repos that need to be created or located on bintray:
         # https://github.com/syslandscape/syslandscape
-        # https://github.com/cajun-code/sfml.conan
         # https://github.com/erikvalkering/smartref
         # https://github.com/malwoden/conan-librsync
         # https://github.com/LighthouseJ/mtn
         # https://github.com/raulbocanegra/utils
         # https://github.com/Aquaveo/xmscore
-        # https://github.com/franc0is/conan-jansson
         # https://github.com/srand/stdext-uuid
         # https://github.com/db4/conan-jwasm
         # https://github.com/ulricheck/conan-librealsense
@@ -89,8 +87,7 @@ class BintrayFinder:
         # https://github.com/kwint/conan-gnuplot-iostream
         # https://github.com/luisnuxx/formiga
         # https://github.com/gustavokretzer88/conan-OATH-Toolkit
-        # https://github.com/lightningcpp/lightningcpp
-        # https://github.com/jasonbot/conan-jansson
+        # https://github.com/lightningcpp/lightningcpp | squawkcpp/conan-cpp
         # https://github.com/bfierz/vcl
         # https://github.com/SverreEplov/conan-wt
         # https://github.com/jampio/jkpak
@@ -102,7 +99,6 @@ class BintrayFinder:
         # https://github.com/matlo607/conan-swig
         # https://github.com/Exiv2/exiv2
         # https://github.com/Ubitrack/component_vision_aruco
-        # https://github.com/iblis-ms/conan_gbenchmark
         # https://github.com/p47r1ck7541/conan-llvm-60
         # https://github.com/StableCoder/conan-mariadb-connector
 

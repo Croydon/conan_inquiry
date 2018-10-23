@@ -1,4 +1,4 @@
-import datetime
+# import datetime
 import json
 import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -35,8 +35,7 @@ def transform_package(file):
         return None
 
     # TODO: share transformer chains in the same thread
-    # TODO: bitbucket transformer
-    # TODO: sourceforge transformer
+    # TODO: bitbucket transformer (maybe)
     # TODO: generic gitlab transformer
     transformers = TransformerChain([
         BoostTransformer,
