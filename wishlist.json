@@ -1,6 +1,6 @@
 {
     "4": {
-        "upvotes": 21,
+        "upvotes": 22,
         "issue": 4,
         "issuetitle": "OpenCV"
     },
@@ -24,6 +24,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "87": {
+        "upvotes": 5,
+        "issue": 87,
+        "issuetitle": "Google protobuf"
+    },
     "71": {
         "upvotes": 5,
         "issue": 71,
@@ -44,6 +49,11 @@
         "issue": 7,
         "issuetitle": "crow"
     },
+    "144": {
+        "upvotes": 4,
+        "issue": 144,
+        "issuetitle": "Vulkan"
+    },
     "126": {
         "upvotes": 4,
         "issue": 126,
@@ -54,11 +64,6 @@
         "issue": 115,
         "issuetitle": "doxygen"
     },
-    "87": {
-        "upvotes": 4,
-        "issue": 87,
-        "issuetitle": "Google protobuf"
-    },
     "69": {
         "upvotes": 4,
         "issue": 69,
@@ -68,6 +73,11 @@
         "upvotes": 4,
         "issue": 67,
         "issuetitle": "sqlcipher"
+    },
+    "21": {
+        "upvotes": 4,
+        "issue": 21,
+        "issuetitle": "opengl support (GLFW and GLEW)"
     },
     "15": {
         "upvotes": 4,
@@ -94,11 +104,6 @@
         "issue": 66,
         "issuetitle": "soci"
     },
-    "21": {
-        "upvotes": 3,
-        "issue": 21,
-        "issuetitle": "opengl support (GLFW and GLEW)"
-    },
     "159": {
         "upvotes": 2,
         "issue": 159,
@@ -108,11 +113,6 @@
         "upvotes": 2,
         "issue": 152,
         "issuetitle": "VTK 8.1"
-    },
-    "144": {
-        "upvotes": 2,
-        "issue": 144,
-        "issuetitle": "Vulkan"
     },
     "94": {
         "upvotes": 2,
@@ -214,6 +214,11 @@
         "issue": 62,
         "issuetitle": "g3log"
     },
+    "40": {
+        "upvotes": 1,
+        "issue": 40,
+        "issuetitle": "OSRM-backend library"
+    },
     "31": {
         "upvotes": 1,
         "issue": 31,
@@ -228,6 +233,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "178": {
+        "upvotes": 0,
+        "issue": 178,
+        "issuetitle": "MariaDB Connector"
     },
     "177": {
         "upvotes": 0,
@@ -583,11 +593,6 @@
         "upvotes": 0,
         "issue": 44,
         "issuetitle": "sodium/0.9.0 - Functional Reactive Programming (FRP) library"
-    },
-    "40": {
-        "upvotes": 0,
-        "issue": 40,
-        "issuetitle": "OSRM-backend library"
     },
     "34": {
         "upvotes": 0,
