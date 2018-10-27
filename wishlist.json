@@ -24,6 +24,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "39": {
+        "upvotes": 6,
+        "issue": 39,
+        "issuetitle": "ncurses/6.0"
+    },
     "87": {
         "upvotes": 5,
         "issue": 87,
@@ -38,11 +43,6 @@
         "upvotes": 5,
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
-    },
-    "39": {
-        "upvotes": 5,
-        "issue": 39,
-        "issuetitle": "ncurses/6.0"
     },
     "7": {
         "upvotes": 5,
@@ -109,6 +109,11 @@
         "issue": 159,
         "issuetitle": "SDL2_ttf"
     },
+    "157": {
+        "upvotes": 2,
+        "issue": 157,
+        "issuetitle": "Package LuaJIT"
+    },
     "152": {
         "upvotes": 2,
         "issue": 152,
@@ -144,15 +149,20 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "178": {
+        "upvotes": 1,
+        "issue": 178,
+        "issuetitle": "MariaDB Connector"
+    },
     "168": {
         "upvotes": 1,
         "issue": 168,
         "issuetitle": "Freealut - Needed by OpenAL"
     },
-    "157": {
+    "140": {
         "upvotes": 1,
-        "issue": 157,
-        "issuetitle": "Package LuaJIT"
+        "issue": 140,
+        "issuetitle": "Still no popular gui libraries"
     },
     "136": {
         "upvotes": 1,
@@ -234,10 +244,10 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
-    "178": {
+    "179": {
         "upvotes": 0,
-        "issue": 178,
-        "issuetitle": "MariaDB Connector"
+        "issue": 179,
+        "issuetitle": "gtkmm"
     },
     "177": {
         "upvotes": 0,
@@ -378,11 +388,6 @@
         "upvotes": 0,
         "issue": 141,
         "issuetitle": "nanopb - Protocol Buffers with small code size"
-    },
-    "140": {
-        "upvotes": 0,
-        "issue": 140,
-        "issuetitle": "Still no popular gui libraries"
     },
     "139": {
         "upvotes": 0,
