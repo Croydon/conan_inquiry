@@ -159,11 +159,6 @@
         "issue": 168,
         "issuetitle": "Freealut - Needed by OpenAL"
     },
-    "140": {
-        "upvotes": 1,
-        "issue": 140,
-        "issuetitle": "Still no popular gui libraries"
-    },
     "136": {
         "upvotes": 1,
         "issue": 136,
@@ -438,11 +433,6 @@
         "upvotes": 0,
         "issue": 125,
         "issuetitle": "BWAPI (Starcraft Broodwar API)"
-    },
-    "123": {
-        "upvotes": 0,
-        "issue": 123,
-        "issuetitle": "fftw"
     },
     "120": {
         "upvotes": 0,
