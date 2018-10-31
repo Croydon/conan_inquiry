@@ -149,6 +149,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "180": {
+        "upvotes": 1,
+        "issue": 180,
+        "issuetitle": "Parallel STL (PSTL)"
+    },
     "178": {
         "upvotes": 1,
         "issue": 178,
