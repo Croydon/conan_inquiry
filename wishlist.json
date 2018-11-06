@@ -104,6 +104,11 @@
         "issue": 66,
         "issuetitle": "soci"
     },
+    "17": {
+        "upvotes": 3,
+        "issue": 17,
+        "issuetitle": "Pango"
+    },
     "159": {
         "upvotes": 2,
         "issue": 159,
@@ -139,10 +144,10 @@
         "issue": 36,
         "issuetitle": "ITK/4.10 - Medical Image Processing Library"
     },
-    "17": {
+    "20": {
         "upvotes": 2,
-        "issue": 17,
-        "issuetitle": "Pango"
+        "issue": 20,
+        "issuetitle": "Fontconfig"
     },
     "8": {
         "upvotes": 2,
@@ -239,15 +244,15 @@
         "issue": 31,
         "issuetitle": "C++14 multithreaded compile-time entity-component-system library"
     },
-    "20": {
-        "upvotes": 1,
-        "issue": 20,
-        "issuetitle": "Fontconfig"
-    },
     "16": {
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "181": {
+        "upvotes": 0,
+        "issue": 181,
+        "issuetitle": "reproc and reproc++ - Cross-platform control of external processes"
     },
     "179": {
         "upvotes": 0,
