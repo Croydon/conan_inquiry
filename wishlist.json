@@ -9,11 +9,6 @@
         "issue": 2,
         "issuetitle": "Qt/5.6"
     },
-    "32": {
-        "upvotes": 8,
-        "issue": 32,
-        "issuetitle": "ImageMagic 7.0.2-10"
-    },
     "49": {
         "upvotes": 7,
         "issue": 49,
@@ -89,6 +84,11 @@
         "issue": 166,
         "issuetitle": "EnTT"
     },
+    "152": {
+        "upvotes": 3,
+        "issue": 152,
+        "issuetitle": "VTK 8.1"
+    },
     "104": {
         "upvotes": 3,
         "issue": 104,
@@ -119,11 +119,6 @@
         "issue": 157,
         "issuetitle": "Package LuaJIT"
     },
-    "152": {
-        "upvotes": 2,
-        "issue": 152,
-        "issuetitle": "VTK 8.1"
-    },
     "94": {
         "upvotes": 2,
         "issue": 94,
@@ -153,11 +148,6 @@
         "upvotes": 2,
         "issue": 8,
         "issuetitle": "sqlpp11"
-    },
-    "180": {
-        "upvotes": 1,
-        "issue": 180,
-        "issuetitle": "Parallel STL (PSTL)"
     },
     "178": {
         "upvotes": 1,
