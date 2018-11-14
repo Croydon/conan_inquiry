@@ -14,15 +14,15 @@
         "issue": 49,
         "issuetitle": "Folly"
     },
+    "39": {
+        "upvotes": 7,
+        "issue": 39,
+        "issuetitle": "ncurses/6.0"
+    },
     "80": {
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
-    },
-    "39": {
-        "upvotes": 6,
-        "issue": 39,
-        "issuetitle": "ncurses/6.0"
     },
     "87": {
         "upvotes": 5,
