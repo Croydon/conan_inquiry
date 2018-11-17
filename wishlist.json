@@ -24,6 +24,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "144": {
+        "upvotes": 5,
+        "issue": 144,
+        "issuetitle": "Vulkan"
+    },
     "87": {
         "upvotes": 5,
         "issue": 87,
@@ -39,15 +44,15 @@
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
     },
+    "15": {
+        "upvotes": 5,
+        "issue": 15,
+        "issuetitle": "GTK+"
+    },
     "7": {
         "upvotes": 5,
         "issue": 7,
         "issuetitle": "crow"
-    },
-    "144": {
-        "upvotes": 4,
-        "issue": 144,
-        "issuetitle": "Vulkan"
     },
     "126": {
         "upvotes": 4,
@@ -73,11 +78,6 @@
         "upvotes": 4,
         "issue": 21,
         "issuetitle": "opengl support (GLFW and GLEW)"
-    },
-    "15": {
-        "upvotes": 4,
-        "issue": 15,
-        "issuetitle": "GTK+"
     },
     "166": {
         "upvotes": 3,
