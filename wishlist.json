@@ -109,6 +109,11 @@
         "issue": 17,
         "issuetitle": "Pango"
     },
+    "184": {
+        "upvotes": 2,
+        "issue": 184,
+        "issuetitle": "cpr: C++ Requests: Curl for People, a spiritual port of Python Requests"
+    },
     "182": {
         "upvotes": 2,
         "issue": 182,
@@ -153,6 +158,11 @@
         "upvotes": 2,
         "issue": 8,
         "issuetitle": "sqlpp11"
+    },
+    "183": {
+        "upvotes": 1,
+        "issue": 183,
+        "issuetitle": "Mongoose Embedded Web Server Library"
     },
     "178": {
         "upvotes": 1,
