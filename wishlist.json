@@ -1,18 +1,8 @@
 {
-    "4": {
-        "upvotes": 22,
-        "issue": 4,
-        "issuetitle": "OpenCV"
-    },
     "2": {
         "upvotes": 17,
         "issue": 2,
         "issuetitle": "Qt/5.6"
-    },
-    "49": {
-        "upvotes": 7,
-        "issue": 49,
-        "issuetitle": "Folly"
     },
     "39": {
         "upvotes": 7,
