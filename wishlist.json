@@ -179,6 +179,11 @@
         "issue": 124,
         "issuetitle": "FreeGLUT"
     },
+    "118": {
+        "upvotes": 1,
+        "issue": 118,
+        "issuetitle": "Facebook Proxygen - C++ HTTP libraries "
+    },
     "116": {
         "upvotes": 1,
         "issue": 116,
@@ -243,6 +248,26 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "188": {
+        "upvotes": 0,
+        "issue": 188,
+        "issuetitle": "raylib"
+    },
+    "187": {
+        "upvotes": 0,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
+    "186": {
+        "upvotes": 0,
+        "issue": 186,
+        "issuetitle": "aten"
+    },
+    "185": {
+        "upvotes": 0,
+        "issue": 185,
+        "issuetitle": "libbsd"
     },
     "181": {
         "upvotes": 0,
@@ -448,11 +473,6 @@
         "upvotes": 0,
         "issue": 119,
         "issuetitle": "Google RE2 - Regular Expression library"
-    },
-    "118": {
-        "upvotes": 0,
-        "issue": 118,
-        "issuetitle": "Facebook Proxygen - C++ HTTP libraries "
     },
     "117": {
         "upvotes": 0,
