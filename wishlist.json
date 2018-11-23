@@ -149,6 +149,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "187": {
+        "upvotes": 1,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
     "183": {
         "upvotes": 1,
         "issue": 183,
@@ -209,6 +214,11 @@
         "issue": 103,
         "issuetitle": "Chromium embedded framework - CEF"
     },
+    "102": {
+        "upvotes": 1,
+        "issue": 102,
+        "issuetitle": "NVidia Jitify for CUDA - Header-Only"
+    },
     "98": {
         "upvotes": 1,
         "issue": 98,
@@ -253,11 +263,6 @@
         "upvotes": 0,
         "issue": 188,
         "issuetitle": "raylib"
-    },
-    "187": {
-        "upvotes": 0,
-        "issue": 187,
-        "issuetitle": "LibTorch"
     },
     "186": {
         "upvotes": 0,
@@ -503,11 +508,6 @@
         "upvotes": 0,
         "issue": 106,
         "issuetitle": "MLPack - popular machine learning library"
-    },
-    "102": {
-        "upvotes": 0,
-        "issue": 102,
-        "issuetitle": "NVidia Jitify for CUDA - Header-Only"
     },
     "100": {
         "upvotes": 0,
