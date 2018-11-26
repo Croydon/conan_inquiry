@@ -14,6 +14,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "15": {
+        "upvotes": 6,
+        "issue": 15,
+        "issuetitle": "GTK+"
+    },
     "144": {
         "upvotes": 5,
         "issue": 144,
@@ -34,10 +39,10 @@
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
     },
-    "15": {
+    "21": {
         "upvotes": 5,
-        "issue": 15,
-        "issuetitle": "GTK+"
+        "issue": 21,
+        "issuetitle": "opengl support (GLFW and GLEW)"
     },
     "7": {
         "upvotes": 5,
@@ -63,11 +68,6 @@
         "upvotes": 4,
         "issue": 67,
         "issuetitle": "sqlcipher"
-    },
-    "21": {
-        "upvotes": 4,
-        "issue": 21,
-        "issuetitle": "opengl support (GLFW and GLEW)"
     },
     "166": {
         "upvotes": 3,
@@ -158,6 +158,11 @@
         "upvotes": 1,
         "issue": 183,
         "issuetitle": "Mongoose Embedded Web Server Library"
+    },
+    "179": {
+        "upvotes": 1,
+        "issue": 179,
+        "issuetitle": "gtkmm"
     },
     "178": {
         "upvotes": 1,
@@ -283,11 +288,6 @@
         "upvotes": 0,
         "issue": 181,
         "issuetitle": "reproc and reproc++ - Cross-platform control of external processes"
-    },
-    "179": {
-        "upvotes": 0,
-        "issue": 179,
-        "issuetitle": "gtkmm"
     },
     "177": {
         "upvotes": 0,
