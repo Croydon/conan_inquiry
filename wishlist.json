@@ -99,6 +99,11 @@
         "issue": 17,
         "issuetitle": "Pango"
     },
+    "187": {
+        "upvotes": 2,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
     "184": {
         "upvotes": 2,
         "issue": 184,
@@ -153,11 +158,6 @@
         "upvotes": 1,
         "issue": 190,
         "issuetitle": "mathfu"
-    },
-    "187": {
-        "upvotes": 1,
-        "issue": 187,
-        "issuetitle": "LibTorch"
     },
     "183": {
         "upvotes": 1,
@@ -268,6 +268,16 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "192": {
+        "upvotes": 0,
+        "issue": 192,
+        "issuetitle": "cppgraphqlgen"
+    },
+    "191": {
+        "upvotes": 0,
+        "issue": 191,
+        "issuetitle": "libgraphqlparser"
     },
     "189": {
         "upvotes": 0,
