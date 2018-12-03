@@ -159,6 +159,16 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "192": {
+        "upvotes": 1,
+        "issue": 192,
+        "issuetitle": "cppgraphqlgen"
+    },
+    "191": {
+        "upvotes": 1,
+        "issue": 191,
+        "issuetitle": "libgraphqlparser"
+    },
     "190": {
         "upvotes": 1,
         "issue": 190,
@@ -178,6 +188,11 @@
         "upvotes": 1,
         "issue": 168,
         "issuetitle": "Freealut - Needed by OpenAL"
+    },
+    "139": {
+        "upvotes": 1,
+        "issue": 139,
+        "issuetitle": "Immer - immutable data structures"
     },
     "136": {
         "upvotes": 1,
@@ -269,15 +284,10 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
-    "192": {
+    "193": {
         "upvotes": 0,
-        "issue": 192,
-        "issuetitle": "cppgraphqlgen"
-    },
-    "191": {
-        "upvotes": 0,
-        "issue": 191,
-        "issuetitle": "libgraphqlparser"
+        "issue": 193,
+        "issuetitle": "Google Abseil"
     },
     "189": {
         "upvotes": 0,
@@ -443,11 +453,6 @@
         "upvotes": 0,
         "issue": 141,
         "issuetitle": "nanopb - Protocol Buffers with small code size"
-    },
-    "139": {
-        "upvotes": 0,
-        "issue": 139,
-        "issuetitle": "Immer - immutable data structures"
     },
     "138": {
         "upvotes": 0,
