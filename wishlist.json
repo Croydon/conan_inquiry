@@ -259,6 +259,11 @@
         "issue": 95,
         "issuetitle": "Cling + xeus Jupyter Kernel"
     },
+    "93": {
+        "upvotes": 1,
+        "issue": 93,
+        "issuetitle": "MathGL"
+    },
     "79": {
         "upvotes": 1,
         "issue": 79,
@@ -279,10 +284,25 @@
         "issue": 31,
         "issuetitle": "C++14 multithreaded compile-time entity-component-system library"
     },
+    "18": {
+        "upvotes": 1,
+        "issue": 18,
+        "issuetitle": "Cairo"
+    },
     "16": {
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "195": {
+        "upvotes": 0,
+        "issue": 195,
+        "issuetitle": "mupdf"
+    },
+    "194": {
+        "upvotes": 0,
+        "issue": 194,
+        "issuetitle": "poppler"
     },
     "193": {
         "upvotes": 0,
@@ -544,11 +564,6 @@
         "issue": 96,
         "issuetitle": "Armadillo: C++ linear algebra library"
     },
-    "93": {
-        "upvotes": 0,
-        "issue": 93,
-        "issuetitle": "MathGL"
-    },
     "92": {
         "upvotes": 0,
         "issue": 92,
@@ -668,11 +683,6 @@
         "upvotes": 0,
         "issue": 19,
         "issuetitle": "Pixman"
-    },
-    "18": {
-        "upvotes": 0,
-        "issue": 18,
-        "issuetitle": "Cairo"
     },
     "14": {
         "upvotes": 0,
