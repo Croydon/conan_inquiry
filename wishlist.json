@@ -1,6 +1,6 @@
 {
     "2": {
-        "upvotes": 17,
+        "upvotes": 18,
         "issue": 2,
         "issuetitle": "Qt/5.6"
     },
@@ -9,20 +9,25 @@
         "issue": 39,
         "issuetitle": "ncurses/6.0"
     },
+    "15": {
+        "upvotes": 7,
+        "issue": 15,
+        "issuetitle": "GTK+"
+    },
+    "144": {
+        "upvotes": 6,
+        "issue": 144,
+        "issuetitle": "Vulkan"
+    },
     "80": {
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
-    "15": {
-        "upvotes": 6,
-        "issue": 15,
-        "issuetitle": "GTK+"
-    },
-    "144": {
+    "115": {
         "upvotes": 5,
-        "issue": 144,
-        "issuetitle": "Vulkan"
+        "issue": 115,
+        "issuetitle": "doxygen"
     },
     "87": {
         "upvotes": 5,
@@ -49,15 +54,20 @@
         "issue": 7,
         "issuetitle": "crow"
     },
+    "152": {
+        "upvotes": 4,
+        "issue": 152,
+        "issuetitle": "VTK 8.1"
+    },
     "126": {
         "upvotes": 4,
         "issue": 126,
         "issuetitle": "uWebsocket Library - "
     },
-    "115": {
+    "104": {
         "upvotes": 4,
-        "issue": 115,
-        "issuetitle": "doxygen"
+        "issue": 104,
+        "issuetitle": "WxWidgets - Gui Framework"
     },
     "69": {
         "upvotes": 4,
@@ -69,20 +79,15 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "187": {
+        "upvotes": 3,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
     "166": {
         "upvotes": 3,
         "issue": 166,
         "issuetitle": "EnTT"
-    },
-    "152": {
-        "upvotes": 3,
-        "issue": 152,
-        "issuetitle": "VTK 8.1"
-    },
-    "104": {
-        "upvotes": 3,
-        "issue": 104,
-        "issuetitle": "WxWidgets - Gui Framework"
     },
     "91": {
         "upvotes": 3,
@@ -94,15 +99,15 @@
         "issue": 66,
         "issuetitle": "soci"
     },
+    "45": {
+        "upvotes": 3,
+        "issue": 45,
+        "issuetitle": "x264 "
+    },
     "17": {
         "upvotes": 3,
         "issue": 17,
         "issuetitle": "Pango"
-    },
-    "187": {
-        "upvotes": 2,
-        "issue": 187,
-        "issuetitle": "LibTorch"
     },
     "184": {
         "upvotes": 2,
@@ -134,11 +139,6 @@
         "issue": 94,
         "issuetitle": "GSL - GNU Scientific Library"
     },
-    "45": {
-        "upvotes": 2,
-        "issue": 45,
-        "issuetitle": "x264 "
-    },
     "43": {
         "upvotes": 2,
         "issue": 43,
@@ -158,6 +158,11 @@
         "upvotes": 2,
         "issue": 8,
         "issuetitle": "sqlpp11"
+    },
+    "197": {
+        "upvotes": 1,
+        "issue": 197,
+        "issuetitle": "llvm"
     },
     "192": {
         "upvotes": 1,
@@ -188,6 +193,16 @@
         "upvotes": 1,
         "issue": 168,
         "issuetitle": "Freealut - Needed by OpenAL"
+    },
+    "164": {
+        "upvotes": 1,
+        "issue": 164,
+        "issuetitle": "GStreamer"
+    },
+    "156": {
+        "upvotes": 1,
+        "issue": 156,
+        "issuetitle": "Intel math kernel library for deep neural networks"
     },
     "139": {
         "upvotes": 1,
@@ -269,6 +284,11 @@
         "issue": 79,
         "issuetitle": "Libtins/latest - network packet sniffing and crafting library"
     },
+    "77": {
+        "upvotes": 1,
+        "issue": 77,
+        "issuetitle": "zbar"
+    },
     "62": {
         "upvotes": 1,
         "issue": 62,
@@ -279,10 +299,20 @@
         "issue": 40,
         "issuetitle": "OSRM-backend library"
     },
+    "33": {
+        "upvotes": 1,
+        "issue": 33,
+        "issuetitle": "PoDoFo 0.9.4"
+    },
     "31": {
         "upvotes": 1,
         "issue": 31,
         "issuetitle": "C++14 multithreaded compile-time entity-component-system library"
+    },
+    "24": {
+        "upvotes": 1,
+        "issue": 24,
+        "issuetitle": "quantlib"
     },
     "18": {
         "upvotes": 1,
@@ -293,6 +323,16 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "199": {
+        "upvotes": 0,
+        "issue": 199,
+        "issuetitle": "aria2"
+    },
+    "198": {
+        "upvotes": 0,
+        "issue": 198,
+        "issuetitle": "stduuid"
     },
     "195": {
         "upvotes": 0,
@@ -384,11 +424,6 @@
         "issue": 167,
         "issuetitle": "gunit"
     },
-    "164": {
-        "upvotes": 0,
-        "issue": 164,
-        "issuetitle": "GStreamer"
-    },
     "163": {
         "upvotes": 0,
         "issue": 163,
@@ -413,11 +448,6 @@
         "upvotes": 0,
         "issue": 158,
         "issuetitle": "OpenBLAS"
-    },
-    "156": {
-        "upvotes": 0,
-        "issue": 156,
-        "issuetitle": "Intel math kernel library for deep neural networks"
     },
     "155": {
         "upvotes": 0,
@@ -589,11 +619,6 @@
         "issue": 81,
         "issuetitle": "papki 1.0.39"
     },
-    "77": {
-        "upvotes": 0,
-        "issue": 77,
-        "issuetitle": "zbar"
-    },
     "76": {
         "upvotes": 0,
         "issue": 76,
@@ -659,11 +684,6 @@
         "issue": 34,
         "issuetitle": "dlib/19.1"
     },
-    "33": {
-        "upvotes": 0,
-        "issue": 33,
-        "issuetitle": "PoDoFo 0.9.4"
-    },
     "28": {
         "upvotes": 0,
         "issue": 28,
@@ -673,11 +693,6 @@
         "upvotes": 0,
         "issue": 25,
         "issuetitle": "leveldb"
-    },
-    "24": {
-        "upvotes": 0,
-        "issue": 24,
-        "issuetitle": "quantlib"
     },
     "19": {
         "upvotes": 0,
