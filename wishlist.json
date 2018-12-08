@@ -19,15 +19,20 @@
         "issue": 144,
         "issuetitle": "Vulkan"
     },
+    "115": {
+        "upvotes": 6,
+        "issue": 115,
+        "issuetitle": "doxygen"
+    },
     "80": {
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
-    "115": {
+    "152": {
         "upvotes": 5,
-        "issue": 115,
-        "issuetitle": "doxygen"
+        "issue": 152,
+        "issuetitle": "VTK 8.1"
     },
     "87": {
         "upvotes": 5,
@@ -53,11 +58,6 @@
         "upvotes": 5,
         "issue": 7,
         "issuetitle": "crow"
-    },
-    "152": {
-        "upvotes": 4,
-        "issue": 152,
-        "issuetitle": "VTK 8.1"
     },
     "126": {
         "upvotes": 4,
@@ -159,6 +159,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "200": {
+        "upvotes": 1,
+        "issue": 200,
+        "issuetitle": "libtorrent"
+    },
     "197": {
         "upvotes": 1,
         "issue": 197,
@@ -188,6 +193,11 @@
         "upvotes": 1,
         "issue": 178,
         "issuetitle": "MariaDB Connector"
+    },
+    "173": {
+        "upvotes": 1,
+        "issue": 173,
+        "issuetitle": "Thrust"
     },
     "168": {
         "upvotes": 1,
@@ -393,11 +403,6 @@
         "upvotes": 0,
         "issue": 174,
         "issuetitle": "LittleVGL - Graphics Library for Embedded Systems"
-    },
-    "173": {
-        "upvotes": 0,
-        "issue": 173,
-        "issuetitle": "Thrust"
     },
     "172": {
         "upvotes": 0,
