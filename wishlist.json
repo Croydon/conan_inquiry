@@ -334,6 +334,11 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
+    "201": {
+        "upvotes": 0,
+        "issue": 201,
+        "issuetitle": "muparserx"
+    },
     "199": {
         "upvotes": 0,
         "issue": 199,
