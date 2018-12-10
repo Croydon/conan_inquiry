@@ -194,11 +194,6 @@
         "issue": 178,
         "issuetitle": "MariaDB Connector"
     },
-    "173": {
-        "upvotes": 1,
-        "issue": 173,
-        "issuetitle": "Thrust"
-    },
     "168": {
         "upvotes": 1,
         "issue": 168,
@@ -408,6 +403,11 @@
         "upvotes": 0,
         "issue": 174,
         "issuetitle": "LittleVGL - Graphics Library for Embedded Systems"
+    },
+    "173": {
+        "upvotes": 0,
+        "issue": 173,
+        "issuetitle": "Thrust"
     },
     "172": {
         "upvotes": 0,
