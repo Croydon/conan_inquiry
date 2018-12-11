@@ -159,6 +159,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "202": {
+        "upvotes": 1,
+        "issue": 202,
+        "issuetitle": "executors library"
+    },
     "200": {
         "upvotes": 1,
         "issue": 200,
