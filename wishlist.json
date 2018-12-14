@@ -84,6 +84,11 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "202": {
+        "upvotes": 3,
+        "issue": 202,
+        "issuetitle": "executors library"
+    },
     "184": {
         "upvotes": 3,
         "issue": 184,
@@ -113,11 +118,6 @@
         "upvotes": 3,
         "issue": 17,
         "issuetitle": "Pango"
-    },
-    "202": {
-        "upvotes": 2,
-        "issue": 202,
-        "issuetitle": "executors library"
     },
     "183": {
         "upvotes": 2,
@@ -163,6 +163,11 @@
         "upvotes": 2,
         "issue": 8,
         "issuetitle": "sqlpp11"
+    },
+    "205": {
+        "upvotes": 1,
+        "issue": 205,
+        "issuetitle": "Google Effcee library -  stateful pattern matching of strings"
     },
     "203": {
         "upvotes": 1,
@@ -338,6 +343,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "206": {
+        "upvotes": 0,
+        "issue": 206,
+        "issuetitle": "KhronosGroup - SPIRV-Tools Project"
     },
     "201": {
         "upvotes": 0,
