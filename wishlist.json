@@ -29,6 +29,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "187": {
+        "upvotes": 5,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
     "152": {
         "upvotes": 5,
         "issue": 152,
@@ -58,11 +63,6 @@
         "upvotes": 5,
         "issue": 7,
         "issuetitle": "crow"
-    },
-    "187": {
-        "upvotes": 4,
-        "issue": 187,
-        "issuetitle": "LibTorch"
     },
     "126": {
         "upvotes": 4,
@@ -129,6 +129,11 @@
         "issue": 182,
         "issuetitle": "cppnanomsg"
     },
+    "164": {
+        "upvotes": 2,
+        "issue": 164,
+        "issuetitle": "GStreamer"
+    },
     "159": {
         "upvotes": 2,
         "issue": 159,
@@ -138,6 +143,11 @@
         "upvotes": 2,
         "issue": 157,
         "issuetitle": "Package LuaJIT"
+    },
+    "127": {
+        "upvotes": 2,
+        "issue": 127,
+        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
     "94": {
         "upvotes": 2,
@@ -214,11 +224,6 @@
         "issue": 168,
         "issuetitle": "Freealut - Needed by OpenAL"
     },
-    "164": {
-        "upvotes": 1,
-        "issue": 164,
-        "issuetitle": "GStreamer"
-    },
     "156": {
         "upvotes": 1,
         "issue": 156,
@@ -233,11 +238,6 @@
         "upvotes": 1,
         "issue": 136,
         "issuetitle": "NATS Client in C - Cloud Messaging Protocol"
-    },
-    "127": {
-        "upvotes": 1,
-        "issue": 127,
-        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
     "124": {
         "upvotes": 1,
@@ -343,6 +343,21 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "210": {
+        "upvotes": 0,
+        "issue": 210,
+        "issuetitle": "libaom-av1 - AV1 Codec Library"
+    },
+    "209": {
+        "upvotes": 0,
+        "issue": 209,
+        "issuetitle": "ngg - nanomsg-next-generation"
+    },
+    "207": {
+        "upvotes": 0,
+        "issue": 207,
+        "issuetitle": "Dicom Toolkit - An image processing toolkit for medical imaging"
     },
     "206": {
         "upvotes": 0,
