@@ -39,6 +39,11 @@
         "issue": 152,
         "issuetitle": "VTK 8.1"
     },
+    "126": {
+        "upvotes": 5,
+        "issue": 126,
+        "issuetitle": "uWebsocket Library - "
+    },
     "87": {
         "upvotes": 5,
         "issue": 87,
@@ -63,11 +68,6 @@
         "upvotes": 5,
         "issue": 7,
         "issuetitle": "crow"
-    },
-    "126": {
-        "upvotes": 4,
-        "issue": 126,
-        "issuetitle": "uWebsocket Library - "
     },
     "104": {
         "upvotes": 4,
@@ -343,6 +343,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "211": {
+        "upvotes": 0,
+        "issue": 211,
+        "issuetitle": "Quantum Plus Plus - Quantum Computing Library"
     },
     "210": {
         "upvotes": 0,
