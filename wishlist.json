@@ -349,6 +349,11 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
+    "213": {
+        "upvotes": 0,
+        "issue": 213,
+        "issuetitle": "LMDB - Lightning Memory-mapped Database"
+    },
     "212": {
         "upvotes": 0,
         "issue": 212,
