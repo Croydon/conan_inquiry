@@ -349,6 +349,11 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
+    "214": {
+        "upvotes": 0,
+        "issue": 214,
+        "issuetitle": "Update all packages"
+    },
     "213": {
         "upvotes": 0,
         "issue": 213,
@@ -718,6 +723,11 @@
         "upvotes": 0,
         "issue": 58,
         "issuetitle": "libmcrypt"
+    },
+    "55": {
+        "upvotes": 0,
+        "issue": 55,
+        "issuetitle": "grpc"
     },
     "52": {
         "upvotes": 0,
