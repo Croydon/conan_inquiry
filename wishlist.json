@@ -149,6 +149,11 @@
         "issue": 127,
         "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
+    "98": {
+        "upvotes": 2,
+        "issue": 98,
+        "issuetitle": "nghttp2/1.29.0"
+    },
     "94": {
         "upvotes": 2,
         "issue": 94,
@@ -283,11 +288,6 @@
         "upvotes": 1,
         "issue": 102,
         "issuetitle": "NVidia Jitify for CUDA - Header-Only"
-    },
-    "98": {
-        "upvotes": 1,
-        "issue": 98,
-        "issuetitle": "nghttp2/1.29.0"
     },
     "97": {
         "upvotes": 1,
