@@ -124,11 +124,6 @@
         "issue": 183,
         "issuetitle": "Mongoose Embedded Web Server Library"
     },
-    "182": {
-        "upvotes": 2,
-        "issue": 182,
-        "issuetitle": "cppnanomsg"
-    },
     "164": {
         "upvotes": 2,
         "issue": 164,
@@ -178,6 +173,11 @@
         "upvotes": 2,
         "issue": 8,
         "issuetitle": "sqlpp11"
+    },
+    "215": {
+        "upvotes": 1,
+        "issue": 215,
+        "issuetitle": "Ceres Solver"
     },
     "211": {
         "upvotes": 1,
@@ -358,11 +358,6 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
-    },
-    "215": {
-        "upvotes": 0,
-        "issue": 215,
-        "issuetitle": "Ceres Solver"
     },
     "213": {
         "upvotes": 0,
