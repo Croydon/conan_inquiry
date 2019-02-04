@@ -174,6 +174,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "217": {
+        "upvotes": 1,
+        "issue": 217,
+        "issuetitle": "xkbcommon/0.8.2 keyboard descriptions"
+    },
     "216": {
         "upvotes": 1,
         "issue": 216,
