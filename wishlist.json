@@ -369,6 +369,11 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
+    "218": {
+        "upvotes": 0,
+        "issue": 218,
+        "issuetitle": "libigl as a lightweight replacement for qt for geometry visualization"
+    },
     "213": {
         "upvotes": 0,
         "issue": 213,
