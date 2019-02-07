@@ -259,6 +259,11 @@
         "issue": 139,
         "issuetitle": "Immer - immutable data structures"
     },
+    "137": {
+        "upvotes": 1,
+        "issue": 137,
+        "issuetitle": "hpx - concurrency library"
+    },
     "136": {
         "upvotes": 1,
         "issue": 136,
@@ -368,6 +373,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "219": {
+        "upvotes": 0,
+        "issue": 219,
+        "issuetitle": "Pulsar Cpp - C++ client for apache pulsar"
     },
     "218": {
         "upvotes": 0,
@@ -589,11 +599,6 @@
         "issue": 138,
         "issuetitle": "liquid-dsp/1.3.1 - digital signal processing library for software-defined radios"
     },
-    "137": {
-        "upvotes": 0,
-        "issue": 137,
-        "issuetitle": "hpx - concurrency library"
-    },
     "135": {
         "upvotes": 0,
         "issue": 135,
@@ -728,6 +733,11 @@
         "upvotes": 0,
         "issue": 61,
         "issuetitle": "openmvg multiple view geometry library"
+    },
+    "59": {
+        "upvotes": 0,
+        "issue": 59,
+        "issuetitle": "JUCE/4.3.1"
     },
     "58": {
         "upvotes": 0,
