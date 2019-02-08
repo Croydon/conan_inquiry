@@ -84,6 +84,11 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "17": {
+        "upvotes": 4,
+        "issue": 17,
+        "issuetitle": "Pango"
+    },
     "202": {
         "upvotes": 3,
         "issue": 202,
@@ -113,11 +118,6 @@
         "upvotes": 3,
         "issue": 45,
         "issuetitle": "x264 "
-    },
-    "17": {
-        "upvotes": 3,
-        "issue": 17,
-        "issuetitle": "Pango"
     },
     "183": {
         "upvotes": 2,
