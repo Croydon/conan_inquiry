@@ -114,11 +114,6 @@
         "issue": 66,
         "issuetitle": "soci"
     },
-    "45": {
-        "upvotes": 3,
-        "issue": 45,
-        "issuetitle": "x264 "
-    },
     "183": {
         "upvotes": 2,
         "issue": 183,
@@ -283,11 +278,6 @@
         "upvotes": 1,
         "issue": 118,
         "issuetitle": "Facebook Proxygen - C++ HTTP libraries "
-    },
-    "116": {
-        "upvotes": 1,
-        "issue": 116,
-        "issuetitle": "meson build installer"
     },
     "113": {
         "upvotes": 1,
@@ -638,11 +628,6 @@
         "upvotes": 0,
         "issue": 117,
         "issuetitle": "Cutlass Fast linear Algebra - Nvidia - Header Only"
-    },
-    "114": {
-        "upvotes": 0,
-        "issue": 114,
-        "issuetitle": "muparser"
     },
     "112": {
         "upvotes": 0,
