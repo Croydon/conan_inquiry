@@ -79,6 +79,11 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "66": {
+        "upvotes": 4,
+        "issue": 66,
+        "issuetitle": "soci"
+    },
     "17": {
         "upvotes": 4,
         "issue": 17,
@@ -103,11 +108,6 @@
         "upvotes": 3,
         "issue": 91,
         "issuetitle": "CGAL/4.11"
-    },
-    "66": {
-        "upvotes": 3,
-        "issue": 66,
-        "issuetitle": "soci"
     },
     "183": {
         "upvotes": 2,
