@@ -49,6 +49,11 @@
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
     },
+    "17": {
+        "upvotes": 5,
+        "issue": 17,
+        "issuetitle": "Pango"
+    },
     "7": {
         "upvotes": 5,
         "issue": 7,
@@ -73,11 +78,6 @@
         "upvotes": 4,
         "issue": 66,
         "issuetitle": "soci"
-    },
-    "17": {
-        "upvotes": 4,
-        "issue": 17,
-        "issuetitle": "Pango"
     },
     "202": {
         "upvotes": 3,
