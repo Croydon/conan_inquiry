@@ -349,6 +349,16 @@
         "issue": 16,
         "issuetitle": "GLib"
     },
+    "221": {
+        "upvotes": 0,
+        "issue": 221,
+        "issuetitle": "simdjson:  Yet Another JSON Parser"
+    },
+    "220": {
+        "upvotes": 0,
+        "issue": 220,
+        "issuetitle": "SQLite3cc"
+    },
     "219": {
         "upvotes": 0,
         "issue": 219,
