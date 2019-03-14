@@ -9,6 +9,11 @@
         "issue": 187,
         "issuetitle": "LibTorch"
     },
+    "126": {
+        "upvotes": 7,
+        "issue": 126,
+        "issuetitle": "uWebsocket Library - "
+    },
     "15": {
         "upvotes": 7,
         "issue": 15,
@@ -18,11 +23,6 @@
         "upvotes": 6,
         "issue": 144,
         "issuetitle": "Vulkan"
-    },
-    "126": {
-        "upvotes": 6,
-        "issue": 126,
-        "issuetitle": "uWebsocket Library - "
     },
     "115": {
         "upvotes": 6,
@@ -94,6 +94,11 @@
         "issue": 166,
         "issuetitle": "EnTT"
     },
+    "127": {
+        "upvotes": 3,
+        "issue": 127,
+        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
+    },
     "91": {
         "upvotes": 3,
         "issue": 91,
@@ -118,11 +123,6 @@
         "upvotes": 2,
         "issue": 157,
         "issuetitle": "Package LuaJIT"
-    },
-    "127": {
-        "upvotes": 2,
-        "issue": 127,
-        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
     "98": {
         "upvotes": 2,
