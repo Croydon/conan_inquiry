@@ -254,6 +254,11 @@
         "issue": 134,
         "issuetitle": "Myhtml - Fast C/C++ HTML 5 Parser"
     },
+    "133": {
+        "upvotes": 1,
+        "issue": 133,
+        "issuetitle": "Gumbo - An HTML5 parsing library in pure C99"
+    },
     "124": {
         "upvotes": 1,
         "issue": 124,
@@ -348,6 +353,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "222": {
+        "upvotes": 0,
+        "issue": 222,
+        "issuetitle": "JSON Schema Validator"
     },
     "221": {
         "upvotes": 0,
@@ -588,11 +598,6 @@
         "upvotes": 0,
         "issue": 135,
         "issuetitle": "OpenWeave -- Communications backbone for Nest devices"
-    },
-    "133": {
-        "upvotes": 0,
-        "issue": 133,
-        "issuetitle": "Gumbo - An HTML5 parsing library in pure C99"
     },
     "132": {
         "upvotes": 0,
