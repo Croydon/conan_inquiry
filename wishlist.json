@@ -19,6 +19,11 @@
         "issue": 15,
         "issuetitle": "GTK+"
     },
+    "152": {
+        "upvotes": 6,
+        "issue": 152,
+        "issuetitle": "VTK 8.1"
+    },
     "144": {
         "upvotes": 6,
         "issue": 144,
@@ -33,11 +38,6 @@
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
-    },
-    "152": {
-        "upvotes": 5,
-        "issue": 152,
-        "issuetitle": "VTK 8.1"
     },
     "71": {
         "upvotes": 5,
@@ -353,6 +353,11 @@
         "upvotes": 1,
         "issue": 16,
         "issuetitle": "GLib"
+    },
+    "223": {
+        "upvotes": 0,
+        "issue": 223,
+        "issuetitle": "asio/1.13.0"
     },
     "222": {
         "upvotes": 0,
