@@ -99,6 +99,11 @@
         "issue": 127,
         "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
+    "94": {
+        "upvotes": 3,
+        "issue": 94,
+        "issuetitle": "GSL - GNU Scientific Library"
+    },
     "91": {
         "upvotes": 3,
         "issue": 91,
@@ -124,15 +129,15 @@
         "issue": 157,
         "issuetitle": "Package LuaJIT"
     },
+    "134": {
+        "upvotes": 2,
+        "issue": 134,
+        "issuetitle": "Myhtml - Fast C/C++ HTML 5 Parser"
+    },
     "98": {
         "upvotes": 2,
         "issue": 98,
         "issuetitle": "nghttp2/1.29.0"
-    },
-    "94": {
-        "upvotes": 2,
-        "issue": 94,
-        "issuetitle": "GSL - GNU Scientific Library"
     },
     "43": {
         "upvotes": 2,
@@ -248,11 +253,6 @@
         "upvotes": 1,
         "issue": 136,
         "issuetitle": "NATS Client in C - Cloud Messaging Protocol"
-    },
-    "134": {
-        "upvotes": 1,
-        "issue": 134,
-        "issuetitle": "Myhtml - Fast C/C++ HTML 5 Parser"
     },
     "133": {
         "upvotes": 1,
