@@ -9,6 +9,11 @@
         "issue": 187,
         "issuetitle": "LibTorch"
     },
+    "152": {
+        "upvotes": 7,
+        "issue": 152,
+        "issuetitle": "VTK 8.1"
+    },
     "126": {
         "upvotes": 7,
         "issue": 126,
@@ -18,11 +23,6 @@
         "upvotes": 7,
         "issue": 15,
         "issuetitle": "GTK+"
-    },
-    "152": {
-        "upvotes": 6,
-        "issue": 152,
-        "issuetitle": "VTK 8.1"
     },
     "144": {
         "upvotes": 6,
@@ -43,6 +43,11 @@
         "upvotes": 6,
         "issue": 71,
         "issuetitle": "SDL2_mixer"
+    },
+    "66": {
+        "upvotes": 5,
+        "issue": 66,
+        "issuetitle": "soci"
     },
     "57": {
         "upvotes": 5,
@@ -73,11 +78,6 @@
         "upvotes": 4,
         "issue": 67,
         "issuetitle": "sqlcipher"
-    },
-    "66": {
-        "upvotes": 4,
-        "issue": 66,
-        "issuetitle": "soci"
     },
     "202": {
         "upvotes": 3,
@@ -238,6 +238,11 @@
         "upvotes": 1,
         "issue": 153,
         "issuetitle": "C/C++ Hadoop filesystem library"
+    },
+    "143": {
+        "upvotes": 1,
+        "issue": 143,
+        "issuetitle": "Apache Thrift - An interface definition language and binary communication protocol"
     },
     "139": {
         "upvotes": 1,
