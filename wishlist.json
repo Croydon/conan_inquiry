@@ -19,6 +19,11 @@
         "issue": 126,
         "issuetitle": "uWebsocket Library - "
     },
+    "115": {
+        "upvotes": 7,
+        "issue": 115,
+        "issuetitle": "doxygen"
+    },
     "15": {
         "upvotes": 7,
         "issue": 15,
@@ -29,11 +34,6 @@
         "issue": 144,
         "issuetitle": "Vulkan"
     },
-    "115": {
-        "upvotes": 6,
-        "issue": 115,
-        "issuetitle": "doxygen"
-    },
     "80": {
         "upvotes": 6,
         "issue": 80,
@@ -43,6 +43,11 @@
         "upvotes": 6,
         "issue": 71,
         "issuetitle": "SDL2_mixer"
+    },
+    "7": {
+        "upvotes": 6,
+        "issue": 7,
+        "issuetitle": "crow"
     },
     "66": {
         "upvotes": 5,
@@ -59,15 +64,15 @@
         "issue": 17,
         "issuetitle": "Pango"
     },
-    "7": {
-        "upvotes": 5,
-        "issue": 7,
-        "issuetitle": "crow"
-    },
     "104": {
         "upvotes": 4,
         "issue": 104,
         "issuetitle": "WxWidgets - Gui Framework"
+    },
+    "91": {
+        "upvotes": 4,
+        "issue": 91,
+        "issuetitle": "CGAL/4.11"
     },
     "69": {
         "upvotes": 4,
@@ -94,6 +99,11 @@
         "issue": 166,
         "issuetitle": "EnTT"
     },
+    "159": {
+        "upvotes": 3,
+        "issue": 159,
+        "issuetitle": "SDL2_ttf"
+    },
     "127": {
         "upvotes": 3,
         "issue": 127,
@@ -104,10 +114,20 @@
         "issue": 94,
         "issuetitle": "GSL - GNU Scientific Library"
     },
-    "91": {
+    "36": {
         "upvotes": 3,
-        "issue": 91,
-        "issuetitle": "CGAL/4.11"
+        "issue": 36,
+        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
+    },
+    "8": {
+        "upvotes": 3,
+        "issue": 8,
+        "issuetitle": "sqlpp11"
+    },
+    "197": {
+        "upvotes": 2,
+        "issue": 197,
+        "issuetitle": "llvm"
     },
     "183": {
         "upvotes": 2,
@@ -118,11 +138,6 @@
         "upvotes": 2,
         "issue": 164,
         "issuetitle": "GStreamer"
-    },
-    "159": {
-        "upvotes": 2,
-        "issue": 159,
-        "issuetitle": "SDL2_ttf"
     },
     "157": {
         "upvotes": 2,
@@ -144,20 +159,10 @@
         "issue": 43,
         "issuetitle": "mysql-connector-cpp"
     },
-    "36": {
-        "upvotes": 2,
-        "issue": 36,
-        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
-    },
     "20": {
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
-    },
-    "8": {
-        "upvotes": 2,
-        "issue": 8,
-        "issuetitle": "sqlpp11"
     },
     "217": {
         "upvotes": 1,
@@ -193,11 +198,6 @@
         "upvotes": 1,
         "issue": 200,
         "issuetitle": "libtorrent"
-    },
-    "197": {
-        "upvotes": 1,
-        "issue": 197,
-        "issuetitle": "llvm"
     },
     "192": {
         "upvotes": 1,
