@@ -9,6 +9,11 @@
         "issue": 187,
         "issuetitle": "LibTorch"
     },
+    "115": {
+        "upvotes": 8,
+        "issue": 115,
+        "issuetitle": "doxygen"
+    },
     "152": {
         "upvotes": 7,
         "issue": 152,
@@ -18,11 +23,6 @@
         "upvotes": 7,
         "issue": 126,
         "issuetitle": "uWebsocket Library - "
-    },
-    "115": {
-        "upvotes": 7,
-        "issue": 115,
-        "issuetitle": "doxygen"
     },
     "15": {
         "upvotes": 7,
@@ -64,6 +64,11 @@
         "issue": 17,
         "issuetitle": "Pango"
     },
+    "184": {
+        "upvotes": 4,
+        "issue": 184,
+        "issuetitle": "cpr: C++ Requests: Curl for People, a spiritual port of Python Requests"
+    },
     "104": {
         "upvotes": 4,
         "issue": 104,
@@ -88,11 +93,6 @@
         "upvotes": 3,
         "issue": 202,
         "issuetitle": "executors library"
-    },
-    "184": {
-        "upvotes": 3,
-        "issue": 184,
-        "issuetitle": "cpr: C++ Requests: Curl for People, a spiritual port of Python Requests"
     },
     "166": {
         "upvotes": 3,
@@ -163,6 +163,11 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
+    },
+    "221": {
+        "upvotes": 1,
+        "issue": 221,
+        "issuetitle": "simdjson:  Yet Another JSON Parser"
     },
     "217": {
         "upvotes": 1,
@@ -358,11 +363,6 @@
         "upvotes": 0,
         "issue": 222,
         "issuetitle": "JSON Schema Validator"
-    },
-    "221": {
-        "upvotes": 0,
-        "issue": 221,
-        "issuetitle": "simdjson:  Yet Another JSON Parser"
     },
     "220": {
         "upvotes": 0,
