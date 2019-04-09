@@ -24,6 +24,11 @@
         "issue": 126,
         "issuetitle": "uWebsocket Library - "
     },
+    "71": {
+        "upvotes": 7,
+        "issue": 71,
+        "issuetitle": "SDL2_mixer"
+    },
     "15": {
         "upvotes": 7,
         "issue": 15,
@@ -38,11 +43,6 @@
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
-    },
-    "71": {
-        "upvotes": 6,
-        "issue": 71,
-        "issuetitle": "SDL2_mixer"
     },
     "7": {
         "upvotes": 6,
@@ -89,6 +89,11 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "36": {
+        "upvotes": 4,
+        "issue": 36,
+        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
+    },
     "202": {
         "upvotes": 3,
         "issue": 202,
@@ -113,11 +118,6 @@
         "upvotes": 3,
         "issue": 94,
         "issuetitle": "GSL - GNU Scientific Library"
-    },
-    "36": {
-        "upvotes": 3,
-        "issue": 36,
-        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
     },
     "8": {
         "upvotes": 3,
