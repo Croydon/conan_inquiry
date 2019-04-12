@@ -129,6 +129,11 @@
         "issue": 197,
         "issuetitle": "llvm"
     },
+    "190": {
+        "upvotes": 2,
+        "issue": 190,
+        "issuetitle": "mathfu"
+    },
     "183": {
         "upvotes": 2,
         "issue": 183,
@@ -213,11 +218,6 @@
         "upvotes": 1,
         "issue": 191,
         "issuetitle": "libgraphqlparser"
-    },
-    "190": {
-        "upvotes": 1,
-        "issue": 190,
-        "issuetitle": "mathfu"
     },
     "179": {
         "upvotes": 1,
