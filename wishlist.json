@@ -149,6 +149,11 @@
         "issue": 157,
         "issuetitle": "Package LuaJIT"
     },
+    "137": {
+        "upvotes": 2,
+        "issue": 137,
+        "issuetitle": "hpx - concurrency library"
+    },
     "134": {
         "upvotes": 2,
         "issue": 134,
@@ -253,11 +258,6 @@
         "upvotes": 1,
         "issue": 139,
         "issuetitle": "Immer - immutable data structures"
-    },
-    "137": {
-        "upvotes": 1,
-        "issue": 137,
-        "issuetitle": "hpx - concurrency library"
     },
     "136": {
         "upvotes": 1,
