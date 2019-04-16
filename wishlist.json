@@ -159,6 +159,11 @@
         "issue": 134,
         "issuetitle": "Myhtml - Fast C/C++ HTML 5 Parser"
     },
+    "103": {
+        "upvotes": 2,
+        "issue": 103,
+        "issuetitle": "Chromium embedded framework - CEF"
+    },
     "98": {
         "upvotes": 2,
         "issue": 98,
@@ -293,11 +298,6 @@
         "upvotes": 1,
         "issue": 108,
         "issuetitle": "CPP-Etherium - the official etherium CPP client"
-    },
-    "103": {
-        "upvotes": 1,
-        "issue": 103,
-        "issuetitle": "Chromium embedded framework - CEF"
     },
     "102": {
         "upvotes": 1,
