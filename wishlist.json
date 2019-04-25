@@ -34,6 +34,11 @@
         "issue": 15,
         "issuetitle": "GTK+"
     },
+    "7": {
+        "upvotes": 7,
+        "issue": 7,
+        "issuetitle": "crow"
+    },
     "144": {
         "upvotes": 6,
         "issue": 144,
@@ -43,11 +48,6 @@
         "upvotes": 6,
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
-    },
-    "7": {
-        "upvotes": 6,
-        "issue": 7,
-        "issuetitle": "crow"
     },
     "66": {
         "upvotes": 5,
@@ -318,6 +318,11 @@
         "upvotes": 1,
         "issue": 93,
         "issuetitle": "MathGL"
+    },
+    "92": {
+        "upvotes": 1,
+        "issue": 92,
+        "issuetitle": "RocksDB/5.8"
     },
     "79": {
         "upvotes": 1,
@@ -658,11 +663,6 @@
         "upvotes": 0,
         "issue": 96,
         "issuetitle": "Armadillo: C++ linear algebra library"
-    },
-    "92": {
-        "upvotes": 0,
-        "issue": 92,
-        "issuetitle": "RocksDB/5.8"
     },
     "89": {
         "upvotes": 0,
