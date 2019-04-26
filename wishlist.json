@@ -109,6 +109,11 @@
         "issue": 159,
         "issuetitle": "SDL2_ttf"
     },
+    "137": {
+        "upvotes": 3,
+        "issue": 137,
+        "issuetitle": "hpx - concurrency library"
+    },
     "127": {
         "upvotes": 3,
         "issue": 127,
@@ -148,11 +153,6 @@
         "upvotes": 2,
         "issue": 157,
         "issuetitle": "Package LuaJIT"
-    },
-    "137": {
-        "upvotes": 2,
-        "issue": 137,
-        "issuetitle": "hpx - concurrency library"
     },
     "134": {
         "upvotes": 2,
@@ -203,6 +203,11 @@
         "upvotes": 1,
         "issue": 211,
         "issuetitle": "Quantum Plus Plus - Quantum Computing Library"
+    },
+    "206": {
+        "upvotes": 1,
+        "issue": 206,
+        "issuetitle": "KhronosGroup - SPIRV-Tools Project"
     },
     "205": {
         "upvotes": 1,
@@ -408,11 +413,6 @@
         "upvotes": 0,
         "issue": 207,
         "issuetitle": "Dicom Toolkit - An image processing toolkit for medical imaging"
-    },
-    "206": {
-        "upvotes": 0,
-        "issue": 206,
-        "issuetitle": "KhronosGroup - SPIRV-Tools Project"
     },
     "201": {
         "upvotes": 0,
