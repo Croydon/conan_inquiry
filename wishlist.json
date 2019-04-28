@@ -59,6 +59,11 @@
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
     },
+    "36": {
+        "upvotes": 5,
+        "issue": 36,
+        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
+    },
     "17": {
         "upvotes": 5,
         "issue": 17,
@@ -88,11 +93,6 @@
         "upvotes": 4,
         "issue": 67,
         "issuetitle": "sqlcipher"
-    },
-    "36": {
-        "upvotes": 4,
-        "issue": 36,
-        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
     },
     "202": {
         "upvotes": 3,
