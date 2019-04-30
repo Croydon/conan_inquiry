@@ -109,6 +109,11 @@
         "issue": 159,
         "issuetitle": "SDL2_ttf"
     },
+    "157": {
+        "upvotes": 3,
+        "issue": 157,
+        "issuetitle": "Package LuaJIT"
+    },
     "137": {
         "upvotes": 3,
         "issue": 137,
@@ -149,11 +154,6 @@
         "issue": 164,
         "issuetitle": "GStreamer"
     },
-    "157": {
-        "upvotes": 2,
-        "issue": 157,
-        "issuetitle": "Package LuaJIT"
-    },
     "134": {
         "upvotes": 2,
         "issue": 134,
@@ -178,6 +178,11 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
+    },
+    "224": {
+        "upvotes": 1,
+        "issue": 224,
+        "issuetitle": "P7 logger/5.1"
     },
     "221": {
         "upvotes": 1,
