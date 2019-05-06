@@ -374,6 +374,11 @@
         "issue": 18,
         "issuetitle": "Cairo"
     },
+    "225": {
+        "upvotes": 0,
+        "issue": 225,
+        "issuetitle": "libgit2"
+    },
     "222": {
         "upvotes": 0,
         "issue": 222,
