@@ -79,6 +79,11 @@
         "issue": 104,
         "issuetitle": "WxWidgets - Gui Framework"
     },
+    "94": {
+        "upvotes": 4,
+        "issue": 94,
+        "issuetitle": "GSL - GNU Scientific Library"
+    },
     "91": {
         "upvotes": 4,
         "issue": 91,
@@ -104,6 +109,11 @@
         "issue": 166,
         "issuetitle": "EnTT"
     },
+    "164": {
+        "upvotes": 3,
+        "issue": 164,
+        "issuetitle": "GStreamer"
+    },
     "159": {
         "upvotes": 3,
         "issue": 159,
@@ -124,11 +134,6 @@
         "issue": 127,
         "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
-    "94": {
-        "upvotes": 3,
-        "issue": 94,
-        "issuetitle": "GSL - GNU Scientific Library"
-    },
     "8": {
         "upvotes": 3,
         "issue": 8,
@@ -148,11 +153,6 @@
         "upvotes": 2,
         "issue": 183,
         "issuetitle": "Mongoose Embedded Web Server Library"
-    },
-    "164": {
-        "upvotes": 2,
-        "issue": 164,
-        "issuetitle": "GStreamer"
     },
     "134": {
         "upvotes": 2,
