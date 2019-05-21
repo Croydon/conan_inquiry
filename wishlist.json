@@ -99,6 +99,11 @@
         "issue": 67,
         "issuetitle": "sqlcipher"
     },
+    "227": {
+        "upvotes": 3,
+        "issue": 227,
+        "issuetitle": "fswatch"
+    },
     "202": {
         "upvotes": 3,
         "issue": 202,
@@ -138,11 +143,6 @@
         "upvotes": 3,
         "issue": 8,
         "issuetitle": "sqlpp11"
-    },
-    "227": {
-        "upvotes": 2,
-        "issue": 227,
-        "issuetitle": "fswatch"
     },
     "215": {
         "upvotes": 2,
