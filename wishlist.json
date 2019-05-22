@@ -139,6 +139,11 @@
         "issue": 127,
         "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
+    "98": {
+        "upvotes": 3,
+        "issue": 98,
+        "issuetitle": "nghttp2/1.29.0"
+    },
     "8": {
         "upvotes": 3,
         "issue": 8,
@@ -173,11 +178,6 @@
         "upvotes": 2,
         "issue": 103,
         "issuetitle": "Chromium embedded framework - CEF"
-    },
-    "98": {
-        "upvotes": 2,
-        "issue": 98,
-        "issuetitle": "nghttp2/1.29.0"
     },
     "43": {
         "upvotes": 2,
@@ -378,6 +378,11 @@
         "upvotes": 1,
         "issue": 18,
         "issuetitle": "Cairo"
+    },
+    "229": {
+        "upvotes": 0,
+        "issue": 229,
+        "issuetitle": "avahi"
     },
     "228": {
         "upvotes": 0,
