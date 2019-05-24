@@ -49,6 +49,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "67": {
+        "upvotes": 5,
+        "issue": 67,
+        "issuetitle": "sqlcipher"
+    },
     "66": {
         "upvotes": 5,
         "issue": 66,
@@ -93,11 +98,6 @@
         "upvotes": 4,
         "issue": 69,
         "issuetitle": "czmq"
-    },
-    "67": {
-        "upvotes": 4,
-        "issue": 67,
-        "issuetitle": "sqlcipher"
     },
     "227": {
         "upvotes": 3,
@@ -318,6 +318,11 @@
         "upvotes": 1,
         "issue": 102,
         "issuetitle": "NVidia Jitify for CUDA - Header-Only"
+    },
+    "100": {
+        "upvotes": 1,
+        "issue": 100,
+        "issuetitle": "NSS"
     },
     "97": {
         "upvotes": 1,
@@ -683,11 +688,6 @@
         "upvotes": 0,
         "issue": 106,
         "issuetitle": "MLPack - popular machine learning library"
-    },
-    "100": {
-        "upvotes": 0,
-        "issue": 100,
-        "issuetitle": "NSS"
     },
     "96": {
         "upvotes": 0,
