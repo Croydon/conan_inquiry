@@ -74,6 +74,11 @@
         "issue": 17,
         "issuetitle": "Pango"
     },
+    "227": {
+        "upvotes": 4,
+        "issue": 227,
+        "issuetitle": "fswatch"
+    },
     "184": {
         "upvotes": 4,
         "issue": 184,
@@ -98,11 +103,6 @@
         "upvotes": 4,
         "issue": 69,
         "issuetitle": "czmq"
-    },
-    "227": {
-        "upvotes": 3,
-        "issue": 227,
-        "issuetitle": "fswatch"
     },
     "202": {
         "upvotes": 3,
