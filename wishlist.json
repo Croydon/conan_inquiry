@@ -4,15 +4,15 @@
         "issue": 2,
         "issuetitle": "Qt/5.6"
     },
+    "115": {
+        "upvotes": 9,
+        "issue": 115,
+        "issuetitle": "doxygen"
+    },
     "187": {
         "upvotes": 8,
         "issue": 187,
         "issuetitle": "LibTorch"
-    },
-    "115": {
-        "upvotes": 8,
-        "issue": 115,
-        "issuetitle": "doxygen"
     },
     "152": {
         "upvotes": 7,
@@ -188,6 +188,11 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
+    },
+    "230": {
+        "upvotes": 1,
+        "issue": 230,
+        "issuetitle": "kfr"
     },
     "224": {
         "upvotes": 1,
