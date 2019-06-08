@@ -389,6 +389,11 @@
         "issue": 18,
         "issuetitle": "Cairo"
     },
+    "231": {
+        "upvotes": 0,
+        "issue": 231,
+        "issuetitle": "Netflix/Facebook rsocket-cpp"
+    },
     "229": {
         "upvotes": 0,
         "issue": 229,
