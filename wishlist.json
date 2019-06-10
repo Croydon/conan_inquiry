@@ -389,6 +389,11 @@
         "issue": 18,
         "issuetitle": "Cairo"
     },
+    "14": {
+        "upvotes": 1,
+        "issue": 14,
+        "issuetitle": "IUP"
+    },
     "231": {
         "upvotes": 0,
         "issue": 231,
@@ -818,11 +823,6 @@
         "upvotes": 0,
         "issue": 19,
         "issuetitle": "Pixman"
-    },
-    "14": {
-        "upvotes": 0,
-        "issue": 14,
-        "issuetitle": "IUP"
     },
     "11": {
         "upvotes": 0,
