@@ -49,6 +49,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "36": {
+        "upvotes": 6,
+        "issue": 36,
+        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
+    },
     "67": {
         "upvotes": 5,
         "issue": 67,
@@ -63,11 +68,6 @@
         "upvotes": 5,
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
-    },
-    "36": {
-        "upvotes": 5,
-        "issue": 36,
-        "issuetitle": "ITK/4.10 - Medical Image Processing Library"
     },
     "17": {
         "upvotes": 5,
