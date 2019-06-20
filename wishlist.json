@@ -14,6 +14,11 @@
         "issue": 187,
         "issuetitle": "LibTorch"
     },
+    "15": {
+        "upvotes": 8,
+        "issue": 15,
+        "issuetitle": "GTK+"
+    },
     "152": {
         "upvotes": 7,
         "issue": 152,
@@ -34,11 +39,6 @@
         "issue": 71,
         "issuetitle": "SDL2_mixer"
     },
-    "15": {
-        "upvotes": 7,
-        "issue": 15,
-        "issuetitle": "GTK+"
-    },
     "7": {
         "upvotes": 7,
         "issue": 7,
@@ -54,6 +54,11 @@
         "issue": 36,
         "issuetitle": "ITK/4.10 - Medical Image Processing Library"
     },
+    "17": {
+        "upvotes": 6,
+        "issue": 17,
+        "issuetitle": "Pango"
+    },
     "67": {
         "upvotes": 5,
         "issue": 67,
@@ -68,11 +73,6 @@
         "upvotes": 5,
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
-    },
-    "17": {
-        "upvotes": 5,
-        "issue": 17,
-        "issuetitle": "Pango"
     },
     "227": {
         "upvotes": 4,
@@ -169,6 +169,11 @@
         "issue": 183,
         "issuetitle": "Mongoose Embedded Web Server Library"
     },
+    "179": {
+        "upvotes": 2,
+        "issue": 179,
+        "issuetitle": "gtkmm"
+    },
     "134": {
         "upvotes": 2,
         "issue": 134,
@@ -248,11 +253,6 @@
         "upvotes": 1,
         "issue": 191,
         "issuetitle": "libgraphqlparser"
-    },
-    "179": {
-        "upvotes": 1,
-        "issue": 179,
-        "issuetitle": "gtkmm"
     },
     "178": {
         "upvotes": 1,
