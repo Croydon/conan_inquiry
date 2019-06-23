@@ -149,6 +149,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "216": {
+        "upvotes": 2,
+        "issue": 216,
+        "issuetitle": "restbed"
+    },
     "215": {
         "upvotes": 2,
         "issue": 215,
@@ -213,11 +218,6 @@
         "upvotes": 1,
         "issue": 217,
         "issuetitle": "xkbcommon/0.8.2 keyboard descriptions"
-    },
-    "216": {
-        "upvotes": 1,
-        "issue": 216,
-        "issuetitle": "restbed"
     },
     "211": {
         "upvotes": 1,
