@@ -214,6 +214,11 @@
         "issue": 221,
         "issuetitle": "simdjson:  Yet Another JSON Parser"
     },
+    "219": {
+        "upvotes": 1,
+        "issue": 219,
+        "issuetitle": "Pulsar Cpp - C++ client for apache pulsar"
+    },
     "217": {
         "upvotes": 1,
         "issue": 217,
@@ -428,11 +433,6 @@
         "upvotes": 0,
         "issue": 220,
         "issuetitle": "SQLite3cc"
-    },
-    "219": {
-        "upvotes": 0,
-        "issue": 219,
-        "issuetitle": "Pulsar Cpp - C++ client for apache pulsar"
     },
     "218": {
         "upvotes": 0,
