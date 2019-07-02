@@ -84,6 +84,11 @@
         "issue": 184,
         "issuetitle": "cpr: C++ Requests: Curl for People, a spiritual port of Python Requests"
     },
+    "127": {
+        "upvotes": 4,
+        "issue": 127,
+        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
+    },
     "104": {
         "upvotes": 4,
         "issue": 104,
@@ -133,11 +138,6 @@
         "upvotes": 3,
         "issue": 137,
         "issuetitle": "hpx - concurrency library"
-    },
-    "127": {
-        "upvotes": 3,
-        "issue": 127,
-        "issuetitle": "Refresh of capnproto recipe - Now with Cmake"
     },
     "98": {
         "upvotes": 3,
