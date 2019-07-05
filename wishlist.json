@@ -199,10 +199,10 @@
         "issue": 20,
         "issuetitle": "Fontconfig"
     },
-    "230": {
+    "232": {
         "upvotes": 1,
-        "issue": 230,
-        "issuetitle": "kfr"
+        "issue": 232,
+        "issuetitle": "libxslt"
     },
     "224": {
         "upvotes": 1,
@@ -398,6 +398,11 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
+    },
+    "233": {
+        "upvotes": 0,
+        "issue": 233,
+        "issuetitle": "xmlsec XML Security Library"
     },
     "231": {
         "upvotes": 0,
