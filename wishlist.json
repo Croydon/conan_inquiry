@@ -149,6 +149,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "232": {
+        "upvotes": 2,
+        "issue": 232,
+        "issuetitle": "libxslt"
+    },
     "216": {
         "upvotes": 2,
         "issue": 216,
@@ -184,6 +189,11 @@
         "issue": 134,
         "issuetitle": "Myhtml - Fast C/C++ HTML 5 Parser"
     },
+    "124": {
+        "upvotes": 2,
+        "issue": 124,
+        "issuetitle": "FreeGLUT"
+    },
     "103": {
         "upvotes": 2,
         "issue": 103,
@@ -198,11 +208,6 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
-    },
-    "232": {
-        "upvotes": 1,
-        "issue": 232,
-        "issuetitle": "libxslt"
     },
     "224": {
         "upvotes": 1,
@@ -299,11 +304,6 @@
         "issue": 133,
         "issuetitle": "Gumbo - An HTML5 parsing library in pure C99"
     },
-    "124": {
-        "upvotes": 1,
-        "issue": 124,
-        "issuetitle": "FreeGLUT"
-    },
     "118": {
         "upvotes": 1,
         "issue": 118,
@@ -398,6 +398,16 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
+    },
+    "235": {
+        "upvotes": 0,
+        "issue": 235,
+        "issuetitle": "CUDA runtime"
+    },
+    "234": {
+        "upvotes": 0,
+        "issue": 234,
+        "issuetitle": "gcrypt"
     },
     "233": {
         "upvotes": 0,
