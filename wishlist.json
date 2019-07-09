@@ -114,6 +114,11 @@
         "issue": 202,
         "issuetitle": "executors library"
     },
+    "197": {
+        "upvotes": 3,
+        "issue": 197,
+        "issuetitle": "llvm"
+    },
     "166": {
         "upvotes": 3,
         "issue": 166,
@@ -163,11 +168,6 @@
         "upvotes": 2,
         "issue": 215,
         "issuetitle": "Ceres Solver"
-    },
-    "197": {
-        "upvotes": 2,
-        "issue": 197,
-        "issuetitle": "llvm"
     },
     "190": {
         "upvotes": 2,
