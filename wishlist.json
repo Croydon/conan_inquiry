@@ -254,6 +254,11 @@
         "issue": 200,
         "issuetitle": "libtorrent"
     },
+    "198": {
+        "upvotes": 1,
+        "issue": 198,
+        "issuetitle": "stduuid"
+    },
     "192": {
         "upvotes": 1,
         "issue": 192,
@@ -498,11 +503,6 @@
         "upvotes": 0,
         "issue": 199,
         "issuetitle": "aria2"
-    },
-    "198": {
-        "upvotes": 0,
-        "issue": 198,
-        "issuetitle": "stduuid"
     },
     "195": {
         "upvotes": 0,
