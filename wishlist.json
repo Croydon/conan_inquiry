@@ -199,6 +199,11 @@
         "issue": 103,
         "issuetitle": "Chromium embedded framework - CEF"
     },
+    "100": {
+        "upvotes": 2,
+        "issue": 100,
+        "issuetitle": "NSS"
+    },
     "43": {
         "upvotes": 2,
         "issue": 43,
@@ -334,11 +339,6 @@
         "issue": 102,
         "issuetitle": "NVidia Jitify for CUDA - Header-Only"
     },
-    "100": {
-        "upvotes": 1,
-        "issue": 100,
-        "issuetitle": "NSS"
-    },
     "97": {
         "upvotes": 1,
         "issue": 97,
@@ -403,6 +403,11 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
+    },
+    "238": {
+        "upvotes": 0,
+        "issue": 238,
+        "issuetitle": "polkit"
     },
     "237": {
         "upvotes": 0,
