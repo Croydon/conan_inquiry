@@ -184,6 +184,11 @@
         "issue": 179,
         "issuetitle": "gtkmm"
     },
+    "153": {
+        "upvotes": 2,
+        "issue": 153,
+        "issuetitle": "C/C++ Hadoop filesystem library"
+    },
     "134": {
         "upvotes": 2,
         "issue": 134,
@@ -288,11 +293,6 @@
         "upvotes": 1,
         "issue": 156,
         "issuetitle": "Intel math kernel library for deep neural networks"
-    },
-    "153": {
-        "upvotes": 1,
-        "issue": 153,
-        "issuetitle": "C/C++ Hadoop filesystem library"
     },
     "143": {
         "upvotes": 1,
@@ -403,6 +403,11 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
+    },
+    "239": {
+        "upvotes": 0,
+        "issue": 239,
+        "issuetitle": "globjects"
     },
     "238": {
         "upvotes": 0,
