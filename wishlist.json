@@ -124,6 +124,11 @@
         "issue": 197,
         "issuetitle": "llvm"
     },
+    "179": {
+        "upvotes": 3,
+        "issue": 179,
+        "issuetitle": "gtkmm"
+    },
     "166": {
         "upvotes": 3,
         "issue": 166,
@@ -178,11 +183,6 @@
         "upvotes": 2,
         "issue": 183,
         "issuetitle": "Mongoose Embedded Web Server Library"
-    },
-    "179": {
-        "upvotes": 2,
-        "issue": 179,
-        "issuetitle": "gtkmm"
     },
     "153": {
         "upvotes": 2,
