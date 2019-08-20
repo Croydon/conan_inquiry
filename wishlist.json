@@ -219,6 +219,11 @@
         "issue": 20,
         "issuetitle": "Fontconfig"
     },
+    "240": {
+        "upvotes": 1,
+        "issue": 240,
+        "issuetitle": "skia"
+    },
     "224": {
         "upvotes": 1,
         "issue": 224,
@@ -403,11 +408,6 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
-    },
-    "240": {
-        "upvotes": 0,
-        "issue": 240,
-        "issuetitle": "skia"
     },
     "239": {
         "upvotes": 0,
