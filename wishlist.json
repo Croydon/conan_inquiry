@@ -74,11 +74,6 @@
         "issue": 57,
         "issuetitle": "ffmpeg libraries"
     },
-    "227": {
-        "upvotes": 4,
-        "issue": 227,
-        "issuetitle": "fswatch"
-    },
     "184": {
         "upvotes": 4,
         "issue": 184,
@@ -223,6 +218,11 @@
         "upvotes": 1,
         "issue": 240,
         "issuetitle": "skia"
+    },
+    "237": {
+        "upvotes": 1,
+        "issue": 237,
+        "issuetitle": "include-what-you-use"
     },
     "224": {
         "upvotes": 1,
@@ -423,11 +423,6 @@
         "upvotes": 0,
         "issue": 238,
         "issuetitle": "polkit"
-    },
-    "237": {
-        "upvotes": 0,
-        "issue": 237,
-        "issuetitle": "include-what-you-use"
     },
     "236": {
         "upvotes": 0,
