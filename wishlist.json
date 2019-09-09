@@ -49,6 +49,11 @@
         "issue": 80,
         "issuetitle": "mongocxx/3.0 stable - driver for mongodb"
     },
+    "67": {
+        "upvotes": 6,
+        "issue": 67,
+        "issuetitle": "sqlcipher"
+    },
     "36": {
         "upvotes": 6,
         "issue": 36,
@@ -58,11 +63,6 @@
         "upvotes": 6,
         "issue": 17,
         "issuetitle": "Pango"
-    },
-    "67": {
-        "upvotes": 5,
-        "issue": 67,
-        "issuetitle": "sqlcipher"
     },
     "66": {
         "upvotes": 5,
@@ -213,6 +213,11 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
+    },
+    "246": {
+        "upvotes": 1,
+        "issue": 246,
+        "issuetitle": "magic_get"
     },
     "240": {
         "upvotes": 1,
