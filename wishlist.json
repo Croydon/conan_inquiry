@@ -159,6 +159,11 @@
         "issue": 8,
         "issuetitle": "sqlpp11"
     },
+    "246": {
+        "upvotes": 2,
+        "issue": 246,
+        "issuetitle": "magic_get"
+    },
     "232": {
         "upvotes": 2,
         "issue": 232,
@@ -213,11 +218,6 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
-    },
-    "246": {
-        "upvotes": 1,
-        "issue": 246,
-        "issuetitle": "magic_get"
     },
     "240": {
         "upvotes": 1,
