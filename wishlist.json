@@ -199,6 +199,11 @@
         "issue": 124,
         "issuetitle": "FreeGLUT"
     },
+    "109": {
+        "upvotes": 2,
+        "issue": 109,
+        "issuetitle": "Cinder graphics framework"
+    },
     "103": {
         "upvotes": 2,
         "issue": 103,
@@ -209,6 +214,11 @@
         "issue": 100,
         "issuetitle": "NSS"
     },
+    "92": {
+        "upvotes": 2,
+        "issue": 92,
+        "issuetitle": "RocksDB/5.8"
+    },
     "43": {
         "upvotes": 2,
         "issue": 43,
@@ -218,6 +228,11 @@
         "upvotes": 2,
         "issue": 20,
         "issuetitle": "Fontconfig"
+    },
+    "243": {
+        "upvotes": 1,
+        "issue": 243,
+        "issuetitle": "libarchive"
     },
     "240": {
         "upvotes": 1,
@@ -294,6 +309,11 @@
         "issue": 178,
         "issuetitle": "MariaDB Connector"
     },
+    "175": {
+        "upvotes": 1,
+        "issue": 175,
+        "issuetitle": "git_installer - for use as a build_requirement"
+    },
     "168": {
         "upvotes": 1,
         "issue": 168,
@@ -334,11 +354,6 @@
         "issue": 113,
         "issuetitle": "pkg-config installer for use as build_requires"
     },
-    "109": {
-        "upvotes": 1,
-        "issue": 109,
-        "issuetitle": "Cinder graphics framework"
-    },
     "108": {
         "upvotes": 1,
         "issue": 108,
@@ -363,11 +378,6 @@
         "upvotes": 1,
         "issue": 93,
         "issuetitle": "MathGL"
-    },
-    "92": {
-        "upvotes": 1,
-        "issue": 92,
-        "issuetitle": "RocksDB/5.8"
     },
     "79": {
         "upvotes": 1,
@@ -423,11 +433,6 @@
         "upvotes": 0,
         "issue": 244,
         "issuetitle": "uchardet"
-    },
-    "243": {
-        "upvotes": 0,
-        "issue": 243,
-        "issuetitle": "libarchive"
     },
     "242": {
         "upvotes": 0,
@@ -593,11 +598,6 @@
         "upvotes": 0,
         "issue": 176,
         "issuetitle": "svn_installer - for use as a build_requirement"
-    },
-    "175": {
-        "upvotes": 0,
-        "issue": 175,
-        "issuetitle": "git_installer - for use as a build_requirement"
     },
     "174": {
         "upvotes": 0,
