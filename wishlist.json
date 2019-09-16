@@ -119,6 +119,11 @@
         "issue": 197,
         "issuetitle": "llvm"
     },
+    "190": {
+        "upvotes": 3,
+        "issue": 190,
+        "issuetitle": "mathfu"
+    },
     "179": {
         "upvotes": 3,
         "issue": 179,
@@ -173,11 +178,6 @@
         "upvotes": 2,
         "issue": 216,
         "issuetitle": "restbed"
-    },
-    "190": {
-        "upvotes": 2,
-        "issue": 190,
-        "issuetitle": "mathfu"
     },
     "183": {
         "upvotes": 2,
