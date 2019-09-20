@@ -4,6 +4,11 @@
         "issue": 2,
         "issuetitle": "Qt/5.6"
     },
+    "187": {
+        "upvotes": 9,
+        "issue": 187,
+        "issuetitle": "LibTorch"
+    },
     "126": {
         "upvotes": 9,
         "issue": 126,
@@ -18,11 +23,6 @@
         "upvotes": 9,
         "issue": 15,
         "issuetitle": "GTK+"
-    },
-    "187": {
-        "upvotes": 8,
-        "issue": 187,
-        "issuetitle": "LibTorch"
     },
     "152": {
         "upvotes": 7,
