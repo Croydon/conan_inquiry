@@ -104,6 +104,11 @@
         "issue": 69,
         "issuetitle": "czmq"
     },
+    "246": {
+        "upvotes": 3,
+        "issue": 246,
+        "issuetitle": "magic_get"
+    },
     "215": {
         "upvotes": 3,
         "issue": 215,
@@ -163,11 +168,6 @@
         "upvotes": 3,
         "issue": 8,
         "issuetitle": "sqlpp11"
-    },
-    "246": {
-        "upvotes": 2,
-        "issue": 246,
-        "issuetitle": "magic_get"
     },
     "232": {
         "upvotes": 2,
@@ -428,6 +428,11 @@
         "upvotes": 1,
         "issue": 14,
         "issuetitle": "IUP"
+    },
+    "248": {
+        "upvotes": 0,
+        "issue": 248,
+        "issuetitle": "HDF5"
     },
     "244": {
         "upvotes": 0,
